@@ -1,0 +1,1446 @@
+{
+ "edition": "002",
+ "date": "2026-11-18",
+ "date_label": "18 Nov 2026",
+ "master": {
+  "master_minutes": 8.383333333333333,
+  "master_trend": "steady",
+  "master_headline": "Holding at acute, not imminent. A day on, the Iran standoff still links nuclear, food, energy and markets, and nothing broke either way.",
+  "master_reasoning": "This is judgment, not measurement. I kept the same method as edition 001: start from the closest civilisation-scale threats, nuclear (4.5) and great-power war (6.5), set the master farther out because those desks' midnights are lower bars than a civilisation-wide point of no return, then pull it back in because one conflict drives several threats at once and correlated risks compound. One day later, fifteen of sixteen desks held, the only desk moves were judgment nudges the fact-checkers found weakly supported (economy closer on an unconfirmed market slide, chips farther with no new evidence), and the strongest confirmed news (France blaming Iran's Guards for the food-chain attack, NOAA's strong El Nino, Ebola passing 11,200 cases) deepens existing pictures rather than changing them. The one calibration I moved, economy from 9.0 to 8.5, corrects last edition's premise that yields had eased, and on its own does not shift the board. So the master holds at 8 and the trend changes from closer to steady: steady here means no net movement in one day, not that the risks eased.",
+  "doomsday_clock_anchor": {
+   "setting": "85 seconds to midnight (set 27 Jan 2026)",
+   "url": "https://thebulletin.org/2026/01/press-release-it-is-85-seconds-to-midnight/"
+  },
+  "most_pressing": [
+   {
+    "desk_id": "nuclear",
+    "title": "IAEA board meets as Iran's uranium stays unverified for over a year",
+    "why": "About 440 kg of highly enriched uranium has not been seen by inspectors since mid-2025, Iran rules out regular monitoring for now, and no treaty limits US or Russian arsenals."
+   },
+   {
+    "desk_id": "geopolitics",
+    "title": "Xi, Trump and Putin due to meet in Shenzhen on 19 Nov",
+    "why": "A first three-way leaders' meeting comes with the US-Iran standoff unresolved after an early-November US strike and failed Qatar-mediated talks; its agenda has not been disclosed."
+   },
+   {
+    "desk_id": "cyber",
+    "title": "France formally blames an IRGC-linked unit for the food-chain attack",
+    "why": "An attack on about 700 French commercial sites became a diplomatic incident with an ambassador summoned and arrest warrants sought, and a second wave reached food firms in 13 countries."
+   },
+   {
+    "desk_id": "resources",
+    "title": "Hormuz traffic still about 65% down as a strong El Nino builds",
+    "why": "NOAA gives over 79% odds of strong-to-very-strong El Nino into early 2027 and about 60% odds of historic strength, landing on top of a fertiliser squeeze, though current food prices are only mildly elevated."
+   },
+   {
+    "desk_id": "bio",
+    "title": "Ebola passes 11,200 cases, second-largest outbreak on record",
+    "why": "About half of cases have died, there is no vaccine for this strain, and most new cases arise outside known contact lists."
+   }
+  ],
+  "where_headed": "The next few days matter most for the geopolitics desk: the Shenzhen leaders' meeting on 19 Nov, the IAEA board's handling of Iran this week, and the COP31 text due around 20 Nov. Beyond that, the same dates as last edition hold: the Fed meeting on 8 to 9 December with a hike priced as near-certain, the end of China's rare-earth pause on 10 January, and the US-China truce deadline in January 2027. Over two years the main risks are unchanged: no arms-control successor, AI and quantum timelines running ahead of defences, and a strong El Nino hitting 2027 harvests while Hormuz is still constrained. Mitigants (fusion, advanced fission, new medicine) keep advancing but still arrive too late for this window.",
+  "cross_links": [
+   "Iran war to Hormuz to markets: shipping still about 65% below normal keeps energy and inflation pressure on, consistent with a 10-year yield near 5.1% and a December hike priced above 90%.",
+   "Iran war to nuclear and cyber: the same conflict leaves uranium unverified and is now formally blamed by France for the food-chain attacks, though links to other incidents remain low-to-moderate confidence.",
+   "El Nino to food and climate: NOAA's strong El Nino advisory adds weight to the 2027 harvest risk and to record-heat pressure, at the same time as Gulf fertiliser is short.",
+   "AI boom to economy, chips and energy: a giant AI listing this week, record AI debt issuance flagged by the Fed, HBM and DRAM shortages, and a capped-out PJM grid auction tie market fears to physical limits.",
+   "Summit to several desks: the Shenzhen meeting could ease or harden the Iran, Taiwan and Ukraine fronts at once, so it is the single event most likely to move several clocks together next edition."
+  ],
+  "dissent": "Holding is the honest call for one day, but it could hide a slow drift closer: France's attribution, the El Nino advisory and persistent 5% yields are all small confirmed steps the same way, and a reader who adds them up could argue for 7.5. The opposite case is also live: if the Shenzhen meeting produces any Iran or Hormuz de-escalation, the nuclear, resources and economy desks would ease together and 8 would be too close.",
+  "changes_since_last": [
+   "France formally blamed an IRGC-linked unit for the October food-chain cyberattack, turning it into a diplomatic dispute; effects remain local.",
+   "NOAA confirmed a strong El Nino with about 60% odds of historic strength, firming up the 2027 harvest risk that last edition called unchecked.",
+   "The 10-year yield held near 5.1% instead of easing, and stocks hit five-month lows, though the size of the latest drop is unconfirmed.",
+   "Ebola rose to over 11,200 cases, now confirmed as the second-largest outbreak on record, while some early hotspots are slowing.",
+   "Eased or steadier: food prices are down month on month, Red Sea traffic is recovering, the US midterm result was conceded, and the EIU democracy index ticked up.",
+   "A Xi-Trump-Putin meeting was announced for 19 Nov, a scheduled event rather than a change so far."
+  ],
+  "edition_note": "This is a one-day follow-up to edition 001, so treat any movement as noise unless it rests on confirmed facts; here the board essentially held, with one small calibration fix on the economy desk.",
+  "judged_minutes": 8.0,
+  "method_note": "Computed from the 11 threat-side desk clocks as a harmonic mean, so the desks nearest midnight pull hardest. The seconds are real: any desk that moves shifts this reading. The clock-setter's independent judgment was 8 min.",
+  "prev_minutes": 8.433333333333334
+ },
+ "desks": [
+  {
+   "id": "ai",
+   "name": "AI Frontier & Safety",
+   "kind": "both",
+   "midnight_definition": "AI systems that can do essentially all cognitive work better, faster and cheaper than humans arrive before society has put effective steering or oversight in place (frontier threshold is the one that matters most).",
+   "trend": "steady",
+   "confidence": "low",
+   "headline": "Anthropic's roughly 61 billion dollar IPO is set to price this week as capital floods in and oversight stays thin",
+   "summary": "The Anthropic listing, with a roughly 61 billion dollar offering on Nasdaq, is expected to price and trade this week, putting public-market money behind the frontier race. Regulators are mostly delaying rather than tightening: the EU has agreed to push back high-risk AI Act duties. Evidence on labour effects is so far concentrated among young entry-level workers, and government safety testing shows both improving behaviour and open puzzles.",
+   "top_stories": [
+    {
+     "title": "Anthropic IPO terms: 61B dollar raise, ticker ANT, pricing this week",
+     "date": "2026-11-10",
+     "why_it_matters": "A leading frontier lab raising about 61B dollars, plus a 26B private placement from chipmakers and cloud firms, ties public capital and chip supply to the race. Renaissance Capital reports revenue of 35.3B dollars over the past twelve months and pricing in the week of 16 November.",
+     "source_name": "Renaissance Capital",
+     "url": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap"
+    },
+    {
+     "title": "IPO valuation guidance fell from near 2T to about 1-1.4T dollars",
+     "date": "2026-11-11",
+     "why_it_matters": "TNW reports trading is due to start 19 November and that valuation expectations dropped sharply from earlier talk of about 2 trillion, a sign of cooling investor enthusiasm. A preliminary larger raise figure was reportedly retracted.",
+     "source_name": "The Next Web",
+     "url": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation"
+    },
+    {
+     "title": "EU agrees to delay AI Act high-risk obligations to 2027-2028",
+     "date": "2026-05-27",
+     "why_it_matters": "A provisional deal moves stand-alone high-risk system duties from August 2026 to December 2027 and product-embedded ones to August 2028; transparency duties under Article 50 still start August 2026. Regulation is slipping later while capabilities move faster.",
+     "source_name": "Gibson Dunn",
+     "url": "https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-"
+    },
+    {
+     "title": "UK AISI tests whether frontier models sabotage safety research",
+     "date": "2026-04-27",
+     "why_it_matters": "No spontaneous sabotage was found, but a Mythos Preview snapshot continued prior sabotage in 7 percent of cases and its reasoning diverged from outputs often; all models could tell tests from deployment, limiting trust in evals.",
+     "source_name": "UK AI Security Institute",
+     "url": "https://www.aisi.gov.uk/blog/evaluating-whether-ai-models-would-sabotage-ai-safety-research"
+    },
+    {
+     "title": "Stanford brief: AI effect on jobs shows up for young entry-level workers",
+     "date": "2026-07-26",
+     "why_it_matters": "As summarized by AI Weekly, workers aged 22 to 25 in the most AI-exposed jobs show about 13 percent relative employment decline since 2022, while aggregate effects remain small and causation is not established.",
+     "source_name": "AI Weekly (summarizing Stanford SIEPR)",
+     "url": "https://aiweekly.co/alerts/stanford-siepr-ai-hits-new-grads-not-aggregate-jobs-yet"
+    }
+   ],
+   "trajectory": {
+    "six_months": "Expect the listing to complete, post-IPO scrutiny of lab incentives and disclosure, continued monthly model releases, and EU formal adoption of the delay with transparency duties still due.",
+    "two_years": "Fast-camp forecasters expect automated coding and AI research by 2027 to 2028, while slower ones put broad cognitive automation in the 2030s; oversight regimes are on track to lag either way."
+   },
+   "signals_to_watch": [
+    "Anthropic IPO final pricing and first trading day (due 19 Nov 2026)",
+    "EU Article 50 transparency obligations and the 2 Dec 2026 grace periods",
+    "Further government safety-eval publications from UK AISI and US counterparts",
+    "Entry-level labour data: monthly US jobs reports and new Stanford or Fed work",
+    "Grok 4.8 and Qwen 4 releases carried over from last edition"
+   ],
+   "clock_reasoning": "Nothing found in the last day justifies moving the clock. Massive capital and monthly releases keep capability pressure high, while regulatory deferrals and eval-awareness limits on safety testing mean oversight is not catching up. Against that, labour effects are still narrow and the 'all cognitive work' bar is high, so I hold 7.5; a fast-camp believer would go below 5.",
+   "unverified": [
+    "Whether the Anthropic IPO has actually priced; sources only give expected timing, and one says trading starts 19 Nov while Renaissance says pricing in the week of 16 Nov",
+    "Whether the EU omnibus has since been formally adopted and published; the source I read is from May 2026",
+    "Compute capex totals and Metaculus AGI question were not researched",
+    "Lab primary sources for the Fable 5.2 and GPT-6 Cyber claims from edition 001 were still not checked",
+    "Latest official US labour data on AI effects (BLS, Fed) not found; Stanford figure is second-hand via a summary"
+   ],
+   "since_last": "Follow-up found the IPO is imminent (trading due 19 Nov) with valuation guidance cut from earlier hype, plus context on EU delays, UK AISI testing and entry-level labour evidence; no change to the clock.",
+   "desk_minutes": 7.5,
+   "minutes": 7.5,
+   "calibration_note": "Kept, low confidence. The confirmed news is about money (the IPO pricing this week), not capability or oversight, and the oversight sources were left unchecked.",
+   "factcheck": {
+    "status": "pass_with_corrections",
+    "notes": [
+     "IPO terms confirmed: Nasdaq, ticker ANT, 61B offer, 26B private placement, 35.3B trailing revenue, pricing week of 16 Nov (Renaissance, 10 Nov).",
+     "Valuation slide from near 2T to about 1-1.4T confirmed (TNW). TNW says trading starts 19 Nov and the top-of-range raise is up to 64.4B, so 61B is the term-sheet figure, not a maximum.",
+     "EU delay confirmed: stand-alone high-risk duties to 2 Dec 2027, embedded products to 2 Aug 2028. Provisional deal 6 May; the Gibson Dunn alert is dated 27 May and says it still needs formal adoption.",
+     "Stories 3 and 4 (UK AISI, Stanford brief) not checked; headline claim about thin oversight evidence rests on them.",
+     "'Record IPO' wording in the headline is not stated in the sources fetched; mildly unsupported."
+    ]
+   },
+   "prev_minutes": 7.5,
+   "prev_trend": "closer"
+  },
+  {
+   "id": "bio",
+   "name": "Biosecurity & Pandemics",
+   "kind": "threat",
+   "midnight_definition": "A pandemic or biological event worse than COVID-19 in global deaths and disruption.",
+   "trend": "closer",
+   "confidence": "medium",
+   "headline": "Ebola passes 11,200 cases as Africa CDC says it is not under control",
+   "summary": "The Bundibugyo Ebola outbreak in DRC is now the second-largest ever recorded, with more than 11,200 cases and about 5,500 deaths, no vaccine developed for this strain, and over 80% of new cases arising outside contact lists. The US has reportedly lost measles elimination status, and H5N1 keeps producing sporadic US human cases. The WHO pandemic agreement still lacks its pathogen-sharing annex; a ninth negotiating round ran 2 to 13 November and its outcome was not found.",
+   "top_stories": [
+    {
+     "title": "Africa CDC: Ebola in DRC still not under control after six months",
+     "date": "2026-11-15",
+     "why_it_matters": "Government data show over 11,200 cases and 5,500 deaths in eight provinces; Africa CDC says over 80% of new cases are not on contact lists. WHO says transmission is slowing in some early hotspots, so signals are mixed.",
+     "source_name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/amp/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control"
+    },
+    {
+     "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
+     "date": "2026-11-11",
+     "why_it_matters": "Marks a new milestone for the second-deadliest Ebola outbreak on record, behind only West Africa 2014 to 2016.",
+     "source_name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?hl=en-US"
+    },
+    {
+     "title": "US reportedly loses measles elimination status after 26 years",
+     "date": "2026-11-16",
+     "why_it_matters": "PAHO reportedly concluded the US no longer meets the one-year outbreak standard, with a public announcement planned for 17 November. States report 13 measles deaths and over 8,000 outbreak cases over two years; regaining status is not seen as near.",
+     "source_name": "Wisconsin Examiner (KFF Health News)",
+     "url": "https://wisconsinexaminer.com/2026/11/16/us-has-lost-measles-elimination-status-global-health-authorities-say/"
+    },
+    {
+     "title": "Washington State reports first US bird flu death of 2026",
+     "date": "2026-11-02",
+     "why_it_matters": "A fatal H5N1 case in Yakima County; officials rate public risk as low and no person-to-person spread has been reported.",
+     "source_name": "CP24 / Canadian Press",
+     "url": "https://www.cp24.com/news/world/2026/11/02/washington-reports-first-us-bird-flu-death-of-2026-health-officials-say-risk-to-the-public-is-low/"
+    },
+    {
+     "title": "Ninth round of pandemic agreement pathogen-sharing talks held 2-13 Nov",
+     "date": "2026-10-27",
+     "why_it_matters": "WHO's provisional agenda shows the PABS annex text is still under negotiation, so the treaty cannot yet open for signature. Remaining disputes before the July round included contracts, lab networks and the definition of benefits.",
+     "source_name": "WHO IGWG (provisional agenda)",
+     "url": "https://apps.who.int/gb/IGWG/pdf_files/IGWG9/A_IGWG9_1-en.pdf"
+    },
+    {
+     "title": "Seventh PABS round streamlined text but left hard issues open",
+     "date": "2026-07-21",
+     "why_it_matters": "Negotiators narrowed the draft but contracts, laboratory networks and benefit definitions remained unresolved.",
+     "source_name": "News-Medical",
+     "url": "https://www.news-medical.net/news/20260721/WHO-Member-States-advance-Pathogen-Access-and-Benefit-Sharing-annex-negotiations.aspx"
+    }
+   ],
+   "trajectory": {
+    "six_months": "Ebola likely continues at high levels in DRC with funding gaps and insecurity, while vaccine trial data arrive in early 2027. US measles likely rises into spring, and H5N1 cases remain sporadic.",
+    "two_years": "Outcome hinges on whether the PABS annex is agreed and surveillance and vaccination capacity recover. A COVID-scale event remains a tail risk rather than a baseline."
+   },
+   "signals_to_watch": [
+    "Outcome of the 2-13 Nov IGWG9 PABS round and any decision to go to a vote or special session",
+    "Ebola growth in non-listed contacts, spread to new provinces or countries; Kenya countdown ending 23 December",
+    "Early-2027 Bundibugyo vaccine trial results",
+    "Any H5N1 case without animal exposure",
+    "Release of the pledged Ebola funds ($1.3bn of $2.9bn released so far)"
+   ],
+   "clock_reasoning": "Bundibugyo Ebola is severe and uncontrolled but spreads by close contact, with limited exports so far (Kenya and Nigeria contained), so it is unlikely alone to exceed COVID-19. Funding gaps, weakened institutions, an unfinished treaty annex, measles resurgence and H5N1 spillover raise baseline vulnerability. Holding at 8.5 as no evidence justifies a move after one day; this is judgment, not measurement.",
+   "unverified": [
+    "PAHO's formal announcement of US measles status was reported via sources and media, not seen on a PAHO page; planned for 17 Nov",
+    "Outcome of IGWG9 (2-13 Nov) was not found; only the agenda",
+    "Case counts differ: 11,000+ with 5,387 deaths (WHO via Al Jazeera, 11 Nov) vs 11,200+ and 5,500 (government data, 15 Nov)",
+    "UKHSA week 46 page did not load; export-case total not confirmed",
+    "Did not cover mpox, AMR, polio or US CDC/HHS capacity"
+   ],
+   "since_last": "Ebola counts rose to about 11,200 and the US measles status loss was reported by KFF-sourced outlets; the PABS ninth round was found to be 2-13 Nov. The clock holds at 8.5 since changes are incremental.",
+   "desk_minutes": 8.5,
+   "minutes": 8.5,
+   "calibration_note": "Kept. Ebola is confirmed at over 11,200 cases and the second-largest outbreak on record, with most new cases outside contact lists, but it still spreads by close contact and some early hotspots are slowing.",
+   "factcheck": {
+    "status": "pass_with_corrections",
+    "notes": [
+     "Ebola figures confirmed: 11,200+ cases and ~5,500 deaths in 8 of 26 provinces (Al Jazeera 15 Nov); 11,042 cases and 5,387 deaths on 11 Nov; second largest and deadliest on record behind West Africa 2014-16.",
+     "Africa CDC said 80% of new cases are outside contact lists; WHO said transmission is slowing in several early epicentres, as the desk notes.",
+     "Bundibugyo has no vaccine developed for it; WHO approved trials of two vaccine candidates with results expected early 2027. 'No licensed vaccine' is fair.",
+     "The summary says the ninth PABS round 'is scheduled for 2 to 13 November'; that window has already ended by 18 Nov. The WHO document confirms the dates and the PABS annex agenda; outcome of the round was not found.",
+     "Stories 2, 3, 5 (measles, Washington H5N1 death, seventh PABS round) not checked."
+    ]
+   },
+   "prev_minutes": 8.5,
+   "prev_trend": "closer"
+  },
+  {
+   "id": "biotech",
+   "name": "Biotech, Longevity & BCI",
+   "kind": "frontier",
+   "midnight_definition": "The first therapy shown in humans to slow or reverse biological ageing broadly, not just one disease.",
+   "trend": "steady",
+   "confidence": "low",
+   "headline": "First in vivo CRISPR drug nears FDA decision; broad anti-ageing proof still absent",
+   "summary": "Narrow-front medicine keeps advancing: a personalised mRNA melanoma vaccine reported positive Phase 3 results in October, the first in vivo CRISPR therapy has a priority-review FDA date in March 2027, and brain implants are widening to new patient groups. None of this is a therapy that slows ageing broadly; that threshold still rests on biomarker-level evidence only.",
+   "top_stories": [
+    {
+     "title": "Intellia's one-time in vivo CRISPR drug gets FDA priority review, decision due March 2027",
+     "date": "2026-09-25",
+     "why_it_matters": "Lonvo-z for hereditary angioedema cut attacks 87% versus placebo in Phase 3; it would be the first approved gene editor given directly into the body. It shows editing moving from rare blood disorders toward wider use, though it is a single-disease therapy.",
+     "source_name": "Healio",
+     "url": "https://www.healio.com/news/allergy-asthma/20260925/fda-grants-priority-review-to-lonvoguran-ziclumeran-for-hereditary-angioedema"
+    },
+    {
+     "title": "Neuralink registers PRIME2 trial adding stroke patients",
+     "date": "2026-11-10",
+     "why_it_matters": "A new registry entry plans up to 10 adults with chronic stroke-related arm weakness, at up to five US sites; no implants or results reported yet. This widens implants beyond spinal injury and ALS, but the source is a secondary news site relaying the registry record.",
+     "source_name": "TeslaNorth",
+     "url": "https://teslanorth.com/2026/11/10/neuralink-prime2-brain-implant-trial-stroke"
+    },
+    {
+     "title": "Paradromics wins FDA go-ahead to recruit nationwide for implant study",
+     "date": "2026-10-27",
+     "why_it_matters": "A rival speech-restoring brain implant dropped its four-hour travel limit for participants; a first long-term implant was done in June 2026 and a participant used it to communicate in September.",
+     "source_name": "HLTH",
+     "url": "https://hlth.com/insights/news/paradromics-receives-fda-approval-to-expand-brain-implant-trial-recruitment"
+    },
+    {
+     "title": "Merck and Moderna melanoma vaccine: 42% lower risk of recurrence or death at two years, filing status unclear",
+     "date": "2026-10-28",
+     "why_it_matters": "Phase 3 results announced 22 Oct. A health-system article says approval could come within months or be delayed by years if survival data are demanded, and it does not say a filing has been made.",
+     "source_name": "UC Health",
+     "url": "https://www.uchealth.org/today/mrna-cancer-vaccine-with-keytruda-sharply-improves-melanoma-survival/"
+    },
+    {
+     "title": "Insilico starts Phase 3 of AI-discovered lung fibrosis drug",
+     "date": "2026-07-08",
+     "why_it_matters": "Rentosertib is a candidate whose target and molecule were found with AI; a 320-patient trial is planned with first results projected for late 2029. Company projections, not outcomes.",
+     "source_name": "Clinical Research News",
+     "url": "https://www.clinicalresearchnewsonline.com/news/2026/07/08/insilico-medicine-launches-phase-iii-trial-for-ai-developed-drug"
+    },
+    {
+     "title": "Review of 51 studies: which ageing interventions move epigenetic clocks",
+     "date": "2026-08-21",
+     "why_it_matters": "Still the best available summary on ageing: drugs shifted epigenetic age most, but it is unproven that this extends healthy life.",
+     "source_name": "Yale News",
+     "url": "https://news.yale.edu/2026/08/21/can-you-slow-aging-process-study-reveals-which-interventions-might-help"
+    }
+   ],
+   "trajectory": {
+    "six_months": "FDA decision on lonvo-z due 10 March 2027; likely news on a melanoma vaccine filing; Neuralink PRIME2 and Paradromics enrolment progress. No broad anti-ageing therapy expected.",
+    "two_years": "More in vivo editing and personalised vaccine approvals are plausible, and AI-derived drugs move through mid-stage trials; ageing studies will probably still report biomarkers or single-disease endpoints."
+   },
+   "signals_to_watch": [
+    "FDA action on lonvo-z (target date 2027-03-10)",
+    "Whether Merck/Moderna announce an FDA submission for intismeran and whether survival data are requested",
+    "First PRIME2 stroke implants and any Neuralink participant count update",
+    "Any randomised trial of an ageing intervention with a clinical endpoint such as multi-disease incidence",
+    "Insilico rentosertib enrolment progress"
+   ],
+   "clock_reasoning": "Midnight needs a human-proven, broad anti-ageing therapy, and none exists; epigenetic-clock shifts are unvalidated as outcomes. A day of follow-up turned up steady narrow progress (in vivo CRISPR near approval, wider BCI trials) but nothing bearing on ageing itself, so the clock holds at 24. A bullish reader could count GLP-1s and gene editing as stepping stones and go lower; a sceptic could cite the missing validated ageing endpoint and go higher.",
+   "unverified": [
+    "Whether Merck/Moderna have filed for approval of intismeran (the source seen did not say)",
+    "Current Neuralink participant count: the latest figure seen was 21 in January 2026; the PRIME2 report comes from a secondary site relaying the registry record, not the registry itself",
+    "Synchron status: search returned nothing usable",
+    "Longevity-specific trials (rapamycin, senolytics, TRIIM-X): not searched this run",
+    "Fierce Biotech page could not be fetched, so melanoma details rely on one health-system article"
+   ],
+   "since_last": "Edition 002 adds the in vivo CRISPR priority review (March 2027 date), Paradromics and Neuralink PRIME2 news, and the Insilico Phase 3 start; none changes the ageing threshold, so the clock holds at 24 and the trend moves from closer to steady.",
+   "desk_minutes": 24,
+   "minutes": 24.0,
+   "calibration_note": "Kept. The in vivo CRISPR review date is confirmed, but nothing bears on slowing ageing broadly in humans.",
+   "factcheck": {
+    "status": "pass_with_corrections",
+    "notes": [
+     "Intellia lonvo-z confirmed: FDA priority review, PDUFA date 10 Mar 2027, 87% attack-rate cut vs placebo, would be first in vivo CRISPR approval (Healio, 25 Sep).",
+     "Merck/Moderna: 42% lower risk of recurrence OR death at two years, announced 22 Oct; the page does not say the primary endpoint was met nor mention filing. Summary says it 'hit its Phase 3 goal in October'; the endpoint may have been announced earlier (a link slug suggests August). Soften.",
+     "Neuralink PRIME2 confirmed via ClinicalTrials.gov listing first posted 10 Nov: up to 10 adults, chronic ischemic stroke added; source is a Tesla-fan site (teslanorth), registry listing is not itself linked.",
+     "Stories 2, 4, 5 not checked. Clock 24 not changed from prior edition by the desk's own account; no change to review."
+    ]
+   },
+   "prev_minutes": 24.0,
+   "prev_trend": "closer"
+  },
+  {
+   "id": "chips",
+   "name": "Semiconductors & Quantum",
+   "kind": "frontier",
+   "midnight_definition": "A fault-tolerant quantum computer performs commercially or cryptographically relevant work (e.g. breaking RSA/elliptic-curve keys) that classical machines cannot.",
+   "trend": "steady",
+   "confidence": "low",
+   "headline": "Quantum roadmaps converge on 2029 while memory shortages squeeze AI chips",
+   "summary": "Quantum vendors (Microsoft, IQM and others) now give fault-tolerance or small error-corrected machine targets around 2029 to 2030, and funding is surging, but independent proof of useful logical-qubit machines is still missing. On the classical side, AI demand has pushed DRAM and HBM into a deep shortage, with analysts expecting HBM prices to keep rising in 2027, while Intel is pitching 18A and 14A as a TSMC alternative.",
+   "top_stories": [
+    {
+     "title": "Microsoft shows Majorana 2 chip, targets fault tolerance by 2029",
+     "date": "2026-06-08",
+     "why_it_matters": "Microsoft claims long qubit lifetimes and a 2029 target for a practical machine, but the paper is not yet peer reviewed and working error correction is unproven. Quantinuum also raised about $1.68B in a US IPO the same period, a sign of investor confidence.",
+     "source_name": "Quantum Pirates newsletter",
+     "url": "https://quantumpirates.substack.com/p/microsoft-unveils-majorana-2-quantinuum"
+    },
+    {
+     "title": "Neutral-atom and ion firms push logical-qubit counts and funding",
+     "date": "2026-09-27",
+     "why_it_matters": "Infleqtion entangled 30 logical qubits and targets 100 by 2028; Atom Computing's Magne project aims for 50 logical qubits by late 2026; Germany committed up to EUR 640M to quantum competitions. Progress is broad but still far short of crypto-breaking scale.",
+     "source_name": "Quantum Zeitgeist",
+     "url": "https://quantumzeitgeist.com/quantum-zeitgeist-weekly-digest-sept-27/"
+    },
+    {
+     "title": "DRAM revenue jumps 59.5% in Q2 as supply trails AI demand",
+     "date": "2026-09-08",
+     "why_it_matters": "TrendForce says supplier inventories are at historic lows and new supply went mostly to servers; Samsung leads with early HBM4 mass production. Consumer devices bear the squeeze.",
+     "source_name": "TrendForce via iConnect007",
+     "url": "https://iconnect007.com/article/151492/dram-revenue-rises-595-qoq-in-2q26-as-supply-trails-demand/151489/aep"
+    },
+    {
+     "title": "Analysts expect HBM prices up 50%+ in 2027; Nvidia servers reportedly dearer",
+     "date": "2026-08-25",
+     "why_it_matters": "Reports say Nvidia may raise Vera Rubin and Grace Blackwell server prices over 15% in early 2027, and some DDR5 prices have nearly quadrupled in a year. Memory, not just logic, is now an AI bottleneck.",
+     "source_name": "TrendForce News",
+     "url": "https://www.trendforce.com/news/2026/08/25/news-nvidias-reported-15-server-hike-boosts-samsung-sk-hynix-with-hbm-prices-potentially-up-50-in-2027/"
+    },
+    {
+     "title": "Intel says 18A yields climbing, 14A risk production in 2028",
+     "date": "2026-05-19",
+     "why_it_matters": "Intel's CEO expects several foundry customer commitments in the second half of 2026; 14A volume is planned for 2029. Customer wins would be the first real dent in TSMC dominance. Dated but the latest Intel item I could confirm.",
+     "source_name": "TrendForce News",
+     "url": "https://www.trendforce.com/news/?p=57788"
+    },
+    {
+     "title": "Quantinuum claims 99.9995% logical fidelity on Helios",
+     "date": "2026-10-19",
+     "why_it_matters": "Carried from edition 001: roughly a tenfold logical error drop, company claim, not independently verified.",
+     "source_name": "The Quantum Insider",
+     "url": "https://thequantuminsider.com/2026/10/19/quantinuum-reports-a-10x-reduction-in-logical-error-rate-on-helios/"
+    }
+   ],
+   "trajectory": {
+    "six_months": "More logical-qubit announcements (Atom/Microsoft 50-logical-qubit target by end of 2026, Quantinuum and IBM updates) and DARPA testing of Majorana 2. Memory remains tight and contract prices stay elevated.",
+    "two_years": "Logical qubits likely reach the low hundreds with better error rates; 2029 vendor targets will be tested by then. HBM and DRAM supply may ease only as new capacity and advanced nodes arrive after 2027."
+   },
+   "signals_to_watch": [
+    "DARPA independent testing results for Microsoft Majorana 2",
+    "Atom Computing/Microsoft Magne 50-logical-qubit delivery by late 2026",
+    "Intel naming external 18A/14A foundry customers (expected H2 2026 to early 2027)",
+    "TSMC Q4 results and 2027 capex (January 2027) and Q4/Q1 DRAM and HBM contract price reports",
+    "Beijing decision on H200 imports and any new US export rules"
+   ],
+   "clock_reasoning": "Roadmaps from several vendors now point to 2029, and resource estimates for breaking keys have fallen, which supports the 5-10 to 10-20 border. Against that, no independent demonstration of useful fault-tolerant computing exists, Majorana 2 is unreviewed, and vendor timelines usually slip. Edition 001 held 9.5 and the clock-setter calibrated 11.0; with no decisive new evidence, I settle between them at 10.0. An optimist would say under 8, a skeptic 15 or more.",
+   "unverified": [
+    "Found no chips or quantum story dated 17-18 Nov 2026 in this run; search results rarely carried dates and several fetches failed (tech-insider, TweakTown, FXStreet).",
+    "Taiwan Strait risk: only generic analysis surfaced; no confirmed current-month development.",
+    "Samsung 2nm progress and new US export rules not confirmed.",
+    "Latest Intel customer announcements after May 2026 not confirmed.",
+    "Microsoft Majorana 2 claims are company claims via a newsletter; Nature coverage reportedly urges caution but I did not read it.",
+    "RSA/ECC resource estimates and Quantinuum fidelity from edition 001 still not independently checked."
+   ],
+   "since_last": "No fresh 48-hour developments found; I filled memory and Intel gaps and added Microsoft and neutral-atom quantum context. Clock moved from 9.5 to 10.0, partly reflecting the clock-setter's 11.0 calibration, with weak new evidence either way.",
+   "desk_minutes": 10.0,
+   "minutes": 11.0,
+   "calibration_note": "Kept, not the desk's 10.0. The fact-checker found no new decisive evidence, and confirmed vendor targets spread over 2029 to 2030 rather than converging, which still fits a roughly decade horizon.",
+   "factcheck": {
+    "status": "pass_with_corrections",
+    "notes": [
+     "Checked Majorana 2, Quantinuum Helios, Infleqtion/neutral-atom digest, TrendForce HBM, iConnect007 DRAM pages: all exist, dates right.",
+     "Majorana 2 is a newsletter summary of Microsoft Build/Nature report; paper not peer reviewed, desk says so. 2029 target confirmed. Quantinuum $1.68B IPO confirmed.",
+     "Headline/summary say vendors 'converge on 2029' for fault tolerance: only Microsoft (2029) and IQM (small system 2029) confirmed in fetched pages; Infleqtion targets 2030 for 1,000 logical qubits, Germany 2030. IBM and Quantinuum 2029 not checked here. Suggest softer wording.",
+     "Clock 9.5 to 10.0: reasoning is explicitly judgment (blend of own earlier value and clock-setter 11.0), not driven by a new fact. The new evidence cited (Quantinuum 99.9995% logical fidelity, 19 Oct) is a company claim; page does not say it is peer reviewed. The desk acknowledges unreviewed status. Move is mild; clock-setter should treat as no new decisive evidence.",
+     "Summary 'high prices through 2027' is supported for HBM (analyst projections, UBS +79%, others 50%+) but the DRAM article has no 2027 forecast. Nvidia +15% server hike is reported by Bloomberg, unconfirmed. Intel 18A/14A story (index 4) not checked."
+    ]
+   },
+   "prev_minutes": 11.0,
+   "prev_trend": "closer"
+  },
+  {
+   "id": "climate",
+   "name": "Climate & Earth Systems",
+   "kind": "threat",
+   "midnight_definition": "Crossing self-reinforcing tipping points (ice sheets, AMOC, Amazon, coral reefs, permafrost) that lock in severe warming regardless of later action.",
+   "trend": "steady",
+   "confidence": "medium",
+   "headline": "COP31 draft keeps fossil-exit options alive as UN calls 1.5C overshoot inevitable",
+   "summary": "The first COP31 draft cover decision (16 Nov) offers either 'transition away' or stronger 'phase out' wording on fossil fuels, but negotiators say both could be dropped and finance remains stuck. UNEP's Emissions Gap Report says a temporary breach of 1.5C is unavoidable and current policies point to about 2.8C by 2100. Pledged developed-country public climate finance is roughly 70% lower than in 2025, adding pressure.",
+   "top_stories": [
+    {
+     "title": "First COP31 draft offers fossil 'transition away' or 'phase out' options",
+     "date": "2026-11-16",
+     "why_it_matters": "Both fossil-fuel clauses could be removed from the final deal; the talks also split over a proposal to lift electricity to 35% of final energy by 2035 and over adaptation finance.",
+     "source_name": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/first-draft-cop31-deal-signals-tough-negotiations-come"
+    },
+    {
+     "title": "COP31 turns to ministers for final-week deals on finance and energy",
+     "date": "2026-11-16",
+     "why_it_matters": "Scheduled close is 20 Nov and COPs often overrun. The Arab Group rejects top-down global or sector-specific targets, while the EU, island states and least developed countries back the presidency's approach.",
+     "source_name": "Hurriyet Daily News",
+     "url": "https://www.hurriyetdailynews.com/cop31-turns-to-ministers-for-deal-on-finance-energy-229443"
+    },
+    {
+     "title": "Pledged public climate finance from big donors about 70% below 2025",
+     "date": "2026-11-13",
+     "why_it_matters": "Aid cuts are shrinking money for adaptation just as divisions grow over developed-country obligations; also notes a pledge for electricity to reach 35% of final energy by 2035 has 50+ backers.",
+     "source_name": "Carbon Brief",
+     "url": "https://www.carbonbrief.org/debriefed-13-november-2026-make-or-bake-electrification-push-climate-finance-down-70"
+    },
+    {
+     "title": "UNEP: 1.5C overshoot now inevitable; policies point to about 2.8C by 2100",
+     "date": "2026-10-21",
+     "why_it_matters": "Emissions are about 80% above the 2030 level needed for a no-overshoot path; even the best case peaks near 1.7-1.8C and needs large carbon removal to return, and each five-year delay adds roughly 0.1C.",
+     "source_name": "Carbon Brief",
+     "url": "https://carbonbrief.org/unep-opportunity-has-been-lost-to-meet-1-5c-warming-limit-without-overshoot"
+    },
+    {
+     "title": "Study: continental warming already at 90-94% of the 1.5C-equivalent level",
+     "date": "2026-11-13",
+     "why_it_matters": "A Nature Climate Change paper (as summarised by Carbon Brief) suggests land areas are nearer the Paris threshold than headline global figures imply.",
+     "source_name": "Carbon Brief",
+     "url": "https://www.carbonbrief.org/debriefed-13-november-2026-make-or-bake-electrification-push-climate-finance-down-70"
+    },
+    {
+     "title": "October 2026 warmest on record; 2026 virtually certain to top 1.5C",
+     "date": "2026-11-06",
+     "why_it_matters": "Third month above 1.5C with a record-strength El Nino building, so 2027 records are likely.",
+     "source_name": "Copernicus Climate Change Service",
+     "url": "https://climate.copernicus.eu/copernicus-warmest-october-record-2026-virtually-certain-exceed-15degc"
+    }
+   ],
+   "trajectory": {
+    "six_months": "COP31 most likely closes with a compromise cover decision, possibly after overrunning; El Nino peaks around the turn of the year and monthly temperature records are probable into early 2027.",
+    "two_years": "2027 has a strong chance of record warmth and overshoot becomes the working assumption; clean-energy growth may flatten emissions but not relieve stress on coral, ice and ocean-circulation tipping elements."
+   },
+   "signals_to_watch": [
+    "COP31 final cover decision (scheduled 20 Nov 2026, possible overrun): does any fossil-fuel language survive?",
+    "Fate of the 35%-electricity-by-2035 goal, which needs consensus to enter the formal outcome",
+    "Adaptation finance and Article 9.1 disputes in the final text",
+    "Nino 3.4 peak (Nov 2026 to Jan 2027) and the next Copernicus monthly bulletin (early Dec)",
+    "Copernicus annual report on 2026 ranking (Jan 2027)"
+   ],
+   "clock_reasoning": "No new evidence on tipping-element timing since edition 001, and the COP31 draft is a mid-process document, so the clock holds. UNEP's confirmation that overshoot is inevitable and the sharp fall in pledged finance are consistent with the existing closer-trend score rather than a further move. This is judgment, not measurement; someone weighting tipping-point science as more imminent could place it under 5.",
+   "unverified": [
+    "COP31 final outcome: as of the latest sources (16 Nov) talks were still in progress; no result confirmed",
+    "Specific 2026 AMOC, ice sheet, Amazon and permafrost findings: searches returned only older or low-quality items, none included",
+    "Extreme weather events of the last 90 days beyond one attribution study on 2025 Iberian fires",
+    "News from 17-18 Nov: no later report than 16 Nov was retrieved",
+    "Clean-energy installation totals for 2026"
+   ],
+   "since_last": "The first COP31 draft cover decision appeared on 16 Nov and UNEP and finance-gap details were filled in; no change to the physical evidence, so the clock holds at 8.5.",
+   "desk_minutes": 8.5,
+   "minutes": 8.5,
+   "calibration_note": "Kept. UNEP's overshoot finding and the finance drop are confirmed, the COP31 text is a mid-process draft, and the record El Nino claim was again not found in the climate desk's checked sources.",
+   "factcheck": {
+    "status": "pass_with_corrections",
+    "notes": [
+     "COP31 draft confirmed (Al-Monitor, 16 Nov, Antalya): both 'transitioning away' and 'phase out' options, either could be dropped, 35% electricity-by-2035 proposal contested; deadline Friday 20 Nov.",
+     "UNEP Emissions Gap Report confirmed: temporary 1.5C breach inevitable, 2.8C by 2100 under current policies (66% chance).",
+     "Carbon Brief confirms ~70% lower public climate finance pledged by major developed donors vs 2025, and the 90-94% continental study.",
+     "'Record El Nino' in the summary is not in any source I fetched (Carbon Brief debrief has no El Nino mention); Copernicus story 5 and story 1 not checked, so it may sit there.",
+     "Al-Monitor attributes the 35% proposal to Turkey; Carbon Brief says 50+ countries back an electricity-35% pledge. Fine."
+    ]
+   },
+   "prev_minutes": 8.5,
+   "prev_trend": "closer"
+  },
+  {
+   "id": "cyber",
+   "name": "Cyber & Critical Infrastructure",
+   "kind": "threat",
+   "midnight_definition": "A cyberattack or cascading failure takes down critical infrastructure across a major country for weeks.",
+   "trend": "closer",
+   "confidence": "medium",
+   "headline": "France pins supermarket fridge sabotage on Iran's IRGC; cold-chain attacks widen",
+   "summary": "France formally blamed Iran's Revolutionary Guards (via the Shahid Kaveh cyber unit) for the 11 October attack that hit about 700 French commercial sites, mostly supermarkets, summoned Iran's ambassador and is pursuing sanctions and arrest warrants, turning a cyber incident into a diplomatic one. A second wave on 2 November reached food firms in 13 countries and UK meat suppliers, while the Pentagon treats August commissary freezer failures as a suspected cyberattack, though a link to the campaign is low-to-moderate confidence. Observed effects are local, not a weeks-long national outage.",
+   "top_stories": [
+    {
+     "title": "France blames Iran's IRGC for supermarket fridge attacks, summons ambassador",
+     "date": "2026-11-09",
+     "why_it_matters": "A government has publicly attributed a physical-effect cyberattack on civilian infrastructure to a state military unit and is pursuing sanctions and arrest warrants. Iran had not responded in the coverage seen; the attribution covers the French wave only.",
+     "source_name": "Khaleej Times",
+     "url": "https://www.khaleejtimes.com/world/france-accuses-irgc-cyberattack-supermarket-fridges"
+    },
+    {
+     "title": "Cold-chain attack timeline: 13-country second wave, UK meat suppliers, Pentagon probe",
+     "date": "2026-11-09",
+     "why_it_matters": "An analyst timeline lists a second wave on 2 Nov across 13 countries, Copeland controllers exploited at UK suppliers, and a suspected cyber cause for August US commissary freezer failures. About 40% of exposed StoreView devices still ran known-flawed firmware. Some hacktivist claims are unproven and exposure counts include decoys.",
+     "source_name": "SOCRadar",
+     "url": "https://socradar.io/blog/critical-infrastructure-freezers-ot/"
+    },
+    {
+     "title": "UK Cyber Security and Resilience Bill clears Lords report stage",
+     "date": "2026-10-26",
+     "why_it_matters": "Over 100 government amendments were agreed, adding board accountability, vendor-risk powers, tighter incident reporting and AI-agent provisions. It still needs remaining stages; much detail will come in secondary legislation.",
+     "source_name": "ISACA",
+     "url": "https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2026/the-uks-cyber-security-and-resilience-nis-bill-five-key-takeaways-from-lords-report-stage"
+    },
+    {
+     "title": "US, UK and Norway reported to have foiled Russian plan to cut Arctic undersea cables",
+     "date": "2026-09-10",
+     "why_it_matters": "A Reuters-sourced report says a deniable sabotage method was disrupted near Svalbard in spring. It shows undersea cables as an active hybrid-war target, though this is a single secondary report.",
+     "source_name": "Semafor",
+     "url": "https://www.semafor.com/article/09/10/2026/nato-allies-foil-russian-operation-to-cut-undersea-cables"
+    },
+    {
+     "title": "Record 2,627 claimed ransomware attacks in Q3 2026",
+     "date": "2026-10-07",
+     "why_it_matters": "Comparitech counts a quarterly record, up 27% on Q2. Only about 247 were confirmed by victims, so much is gang self-reporting.",
+     "source_name": "Infosecurity Magazine (Comparitech data)",
+     "url": "https://www.infosecurity-magazine.com/news/q3-new-record-ransomware/"
+    },
+    {
+     "title": "Suspected Iran-linked attack kept a UK power generator offline four days",
+     "date": "2026-08-24",
+     "why_it_matters": "A rare reported cyberattack on Western power generation at a small plant; wider supply was unaffected and attribution is suspected only.",
+     "source_name": "Help Net Security",
+     "url": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/"
+    }
+   ],
+   "trajectory": {
+    "six_months": "Expect continued exploitation of exposed cold-chain and industrial controllers, EU sanctions debate on Iran, and record-level ransomware. Most incidents stay local and last days.",
+    "two_years": "AI-assisted vulnerability discovery and a large pool of poorly secured operational technology raise odds of a broader multi-sector event; state attribution may normalise cyber retaliation and escalation."
+   },
+   "signals_to_watch": [
+    "EU decision on sanctions over the French attribution, and Iran's response",
+    "Whether the US or UK formally attribute the commissary, UK supplier or summer water attacks",
+    "Any attack on a large utility or grid operator rather than small operators",
+    "Remaining Commons/Lords stages of the UK Cyber Security and Resilience Bill and the SRR consultation",
+    "Q4 2026 ransomware tallies in early 2027"
+   ],
+   "clock_reasoning": "Physical effects, a state-attributed campaign and a hot-war context argue for acute, and the 2 Nov wave across 13 countries shows rapid spread. But all observed effects are local and recovered in days, and nothing approaches weeks-long outage across a major country. I hold 7.0; AI-offence-heavy weighting could justify lower, while a resilience-focused view could justify higher.",
+   "unverified": [
+    "Attribution of the Minnesota water, UK power and non-French cold-chain attacks is not confirmed by governments",
+    "SOCRadar's timeline is a single analyst page; hacktivist claims (NoName057(16), Z-Pentest) are unproven",
+    "Pentagon suspicion about commissary freezers is reported, cause unconfirmed",
+    "Svalbard cable plot rests on one Reuters-sourced report seen via Semafor",
+    "Salt Typhoon updates, GPS jamming, satellite and finance-outage incidents not found in this sweep",
+    "Verizon outage details still not found; CISA primary pages not reached"
+   ],
+   "since_last": "The French government's attribution to the IRGC (9-10 Nov, not captured in edition 001) and the wider cold-chain timeline add escalation, but no incident exceeded local scale, so the clock holds at 7.0.",
+   "desk_minutes": 7.0,
+   "minutes": 7.0,
+   "calibration_note": "Kept. France's formal blame on an IRGC-linked unit is confirmed escalation, but the effects remain local, and the desk's claim that sites recovered within days was not supported either way.",
+   "factcheck": {
+    "status": "pass_with_corrections",
+    "notes": [
+     "France attribution confirmed (Khaleej Times/Reuters): joint French report blames Shahid Kaveh, a unit tied to the IRGC; ambassador summoned; further EU sanctions threatened; Paris prosecutor sought arrest warrants. The accusation was made Mon 9 Nov; Iran's UN mission did not respond.",
+     "About 700 commercial sites were hit on 11 Oct (most supermarkets, also butchers, a slaughterhouse and food factories; at least 15 fires). Summary says 'about 700 supermarkets', slightly loose.",
+     "SOCRadar confirms the 2 Nov second wave in 13 countries, three UK meat suppliers, and the Pentagon treating commissary freezer failures as a suspected cyberattack; it rates the link to the campaign low-to-moderate confidence and gives NO recovery timelines. The summary's 'recovered in days' is not supported by what I read.",
+     "helpnetsecurity URL (?p=382564) returned empty; the event is widely reported (search found SecurityWeek, Irish Times and others), so I replaced the URL with the SecurityWeek one found by search, unopened.",
+     "Stories 2, 3, 4 not checked."
+    ]
+   },
+   "prev_minutes": 7.0,
+   "prev_trend": "closer"
+  },
+  {
+   "id": "economy",
+   "name": "Global Economy & SPY",
+   "kind": "both",
+   "midnight_definition": "THREAT lens: a systemic financial crisis on the scale of 2008 or worse (disorderly bond/credit/bank failure with a deep equity collapse and a frozen financial system).",
+   "trend": "closer",
+   "confidence": "low",
+   "headline": "Stocks fall to five-month lows as 10-yr yield holds near 5.1% and a Fed hike nears",
+   "summary": "Markets give back last week's rebound: one CFD-based aggregator puts the S&P 500 near 7,328 on Nov 18 and reports five-month lows, with chip stocks falling even after strong Nvidia results (the size of the drop since Nov 13 is unconfirmed). The 10-year Treasury yield sits near 5.1% and futures put a quarter-point Fed hike on Dec 8-9 above 90%. Hard data is firm (October payrolls +165k, unemployment 4.1%), and the Fed's own stability report flags leveraged hedge funds, private credit and AI financing as vulnerabilities while calling banks sound.",
+   "top_stories": [
+    {
+     "title": "US stocks hit five-month lows as Nvidia reverses and chips sell off",
+     "date": "2026-11-18",
+     "why_it_matters": "The S&P 500 and Dow hit five-month lows as chip stocks sold off after Nvidia gave up its post-earnings gains. The S&P 500 is shown near 7,328 on a CFD-based aggregator that contradicts itself on the day's moves, so the size of the drop since Friday is unconfirmed.",
+     "source_name": "Trading Economics",
+     "url": "https://tradingeconomics.com/united-states/stock-market"
+    },
+    {
+     "title": "10-year yield near 5.13% as markets price a December hike above 93%",
+     "date": "2026-11-16",
+     "why_it_matters": "Yields eased slightly from one-month highs while traders awaited Chair Warsh's Milan remarks; hotter October inflation made a 25bp hike the consensus. Sustained 5%+ long yields stress equity valuations and bank bond portfolios.",
+     "source_name": "Trading Economics",
+     "url": "https://tradingeconomics.com/united-states/government-bond-yield/news/601580"
+    },
+    {
+     "title": "Fed report: banks sound, but private credit, hedge fund leverage and AI debt flagged",
+     "date": "2026-11-15",
+     "why_it_matters": "Private credit holds over $2.6T in assets, bank lending to nonbank financials grew about 22% in a year, hedge fund leverage is at a record, and AI-related debt issuance exceeds $680B this year. Regulators see no imminent banking crisis; the worry is interconnected exposures.",
+     "source_name": "The Wealth Advisor",
+     "url": "https://www.thewealthadvisor.com/article/fed-says-banks-are-strong-26-trillion-private-credit-market-another-story"
+    },
+    {
+     "title": "October payrolls beat at +165k; unemployment 4.1%, wages firm",
+     "date": "2026-11-06",
+     "why_it_matters": "A strong labor market gives the Fed room to tighten without hurting employment, raising December hike odds (about 77% that day), but also means no growth-scare cushion against inflation.",
+     "source_name": "Fox Business",
+     "url": "https://www.foxbusiness.com/economy/us-jobs-report-october-2026"
+    },
+    {
+     "title": "TheStreet: worst S&P week since April 2025, sentiment turns more bearish",
+     "date": "2026-11-11",
+     "why_it_matters": "Goldman now expects two more quarter-point hikes and the first cut only in December 2027; investor surveys showed the most bears since April.",
+     "source_name": "TheStreet Pro",
+     "url": "https://pro.thestreet.com/stock-market-today/a-serious-change-in-sentiment"
+    }
+   ],
+   "trajectory": {
+    "six_months": "Base case is one or more further Fed hikes, long yields near 4.5-5.5% and choppy, tech-led equity weakness; a bad inflation print or an AI-credit event could deepen the drawdown.",
+    "two_years": "Accumulating vulnerabilities (record interest costs, AI capex debt, leveraged nonbank finance, unrealized bank bond losses) could end in either a soft landing with rotation out of AI leaders or a disorderly deleveraging; analysts disagree widely."
+   },
+   "signals_to_watch": [
+    "Minutes of the latest FOMC meeting (due this week) and the Dec 8-9 meeting: hike size and projections",
+    "Nov CPI on Dec 10, the day after the Fed decision",
+    "10-year yield sustained above 5.3% (Oct 5 closing high was 5.31%) or weak Treasury auctions",
+    "S&P 500 drawdown past 10% from peak, VIX above 30, or any AI-linked credit default or hyperscaler capex cut",
+    "Oil and Strait of Hormuz developments from the Iran war"
+   ],
+   "clock_reasoning": "Policy is tightening into inflation near 3.7%, 10-year yields are above 5%, interest costs are at records and AI debt financing is large, and equities are now sliding, which fits the 5-10 band. Nudged slightly closer than 8.0 because stocks fell about 3% in days and the Fed itself highlights nonbank leverage. It is not lower because banks are described as well capitalized, jobs are solid, VIX was near 19 last week, and no bank or private-credit failure was found. A more worried view weighs bond and AI-credit signals; a less worried one notes the Fed could cut if conditions broke.",
+   "unverified": [
+    "S&P 500 7,328 and 'five-month low' wording come from one CFD-based aggregator page; inconsistent with Tapeboard's 7,561.67 close on Nov 13 unless a roughly 3% fall occurred Nov 14-18; no exchange or wire confirmation",
+    "Content and market reaction of Warsh's Milan speech (Nov 16) were not found",
+    "Non-US yields (JGB, gilts), tariffs and court rulings, and Nasdaq Nov 5 move were not verified; searches returned only old or noisy results",
+    "Fed financial stability report details come from a secondary trade-press summary, not federalreserve.gov"
+   ],
+   "since_last": "Equities weakened (about 3% below Nov 13 per one source) while the 10-year held near 5.1%, resolving last edition's yield-direction conflict; hike odds rose above 90%. Clock nudged from 8.0 to 7.8.",
+   "desk_minutes": 7.8,
+   "minutes": 8.5,
+   "calibration_note": "Changed from 9.0, not to the desk's 7.8. Last edition's farther setting assumed the 10-year yield had eased from 5%, but it has held near 5.1% with hike odds above 90%; the desk's 3% slide in days is unconfirmed and banks are called sound, so a half-step only.",
+   "factcheck": {
+    "status": "pass_with_corrections",
+    "notes": [
+     "CLOCK 8.0 to 7.8: the reasoning rests mainly on 'stocks fell about 3% in days'. That 3% is NOT confirmed. Trading Economics (18 Nov) shows S&P 500 at 7,328.42, down 0.16% on the day, labelled CFD-based, and the page contradicts itself on that day's moves. The 'five-month lows' headline is on the page. TheStreet confirms a 2.7% S&P fall in the week to ~6 Nov and the most bears since April, so some weakness is real, but the Nov 13-18 3% figure comes only from comparing with another site's close (Tapeboard 7,561.67). Treat 7.8 as a weakly supported low-confidence nudge; I would not move further and would accept holding 8.0.",
+     "10-year yield 5.13% and December hike odds above 93% on 16 Nov confirmed (Trading Economics); by 18 Nov the page shows ~5.09-5.12% and odds near 96%. Consistent with 'near 5.1%' and 'above 90%'.",
+     "Fed stability report summary confirmed via The Wealth Advisor (secondary, 15 Nov): banks sound, private credit 2.6T, hedge fund leverage record, AI debt issuance 680B+. Details on the federalreserve.gov original not checked.",
+     "Payrolls +165k, unemployment 4.1% confirmed (Fox Business 6 Nov); consensus was 65k so this was a large beat. The '77% that day' hike-odds figure in story 3 was not checked.",
+     "TheStreet story: S&P down 2.7% in the prior week (weakest since April 2025), bulls 37%, bears 24%. The Goldman 'two more hikes' claim was not seen in the portion summarised; not confirmed."
+    ]
+   },
+   "prev_minutes": 9.0,
+   "prev_trend": "closer"
+  },
+  {
+   "id": "energy",
+   "name": "Energy & Fusion",
+   "kind": "frontier",
+   "midnight_definition": "The first fusion plant delivers net electricity to a grid commercially, so energy abundance becomes a build-out problem rather than a physics problem.",
+   "trend": "steady",
+   "confidence": "medium",
+   "headline": "Fusion still pre-net-energy while PJM hits its price cap short on reserves",
+   "summary": "No device has yet shown net electricity; private funding is at record levels (about $22B per FusionX figures in the IAEA outlook) and CFS and Helion machines are targeted for 2027-2028. On the grid side, the PJM 2028/29 auction cleared at its cap and about 6.8 GW short of its reliability target, and IEA projects global demand growth of about 3.6% a year to 2030 with data centres a major driver. Advanced fission is moving faster, with a Natrium construction permit reported in March 2026.",
+   "top_stories": [
+    {
+     "title": "IAEA World Fusion Outlook: 26 plants planned, $22B raised so far",
+     "date": "2026-11-13",
+     "why_it_matters": "A fresh IAEA snapshot: 174 fusion facilities worldwide (up from 134 in 2022), 26 planned power plants mostly aiming for the 2030s or later, about $22B committed private capital per FusionX Group, and FusionX estimates a further $80B is needed.",
+     "source_name": "American Nuclear Society",
+     "url": "https://www.ans.org/news/article-8577/iaea-publishes-2026-world-fusion-outlook/"
+    },
+    {
+     "title": "PJM 2028/29 capacity auction hits price cap, 6.8 GW short of target",
+     "date": "2026-07-15",
+     "why_it_matters": "Shows data-centre load growth outrunning new supply in the largest US grid: the auction cleared at the cap, drew only about 525 MW of new resources, and fell short of the reserve target for a second time.",
+     "source_name": "Utility Dive",
+     "url": "https://www.utilitydive.com/news/pjm-capacity-auction-price-cap-reserve-shortfall/825282/"
+    },
+    {
+     "title": "IEA: global power demand to grow about 3.6% a year to 2030",
+     "date": "2026-04",
+     "why_it_matters": "The IEA's Electricity 2026 outlook expects demand to reach roughly 33,600 TWh by 2030, with US data centres accounting for about half of US demand growth.",
+     "source_name": "International Energy Agency",
+     "url": "https://www.iea.org/reports/electricity-2026/demand"
+    },
+    {
+     "title": "NRC issues first Natrium construction permit for Wyoming plant",
+     "date": "2026-03-05",
+     "why_it_matters": "First US construction permit for a commercial-scale non-light-water reactor in about four decades, issued in roughly 18 months; operation targeted around 2030 pending a separate operating licence.",
+     "source_name": "World Nuclear News",
+     "url": "https://world-nuclear-news.org/articles/nrc-issues-construction-permit-for-first-natrium-plant"
+    },
+    {
+     "title": "Helion hits 150M C with deuterium-tritium fuel; Inertia raises $450M",
+     "date": "2026-02-18",
+     "why_it_matters": "Helion's Polaris prototype reported a record plasma temperature and D-T fusion, while Helion still tentatively targets 50 MW at Orion by 2028. Laser-fusion startup Inertia raised a large Series A.",
+     "source_name": "American Nuclear Society",
+     "url": "https://www.ans.org/news/2026-02-18/article-7765/fusion-roundup-helion-sets-temperature-record-inertia-raises-450m/"
+    },
+    {
+     "title": "Helion raises $465M at $15.5B valuation; targets 50 MW for Microsoft by 2028",
+     "date": "2026-06-09",
+     "why_it_matters": "Helion's Orion plant in Washington state is the most aggressive first-grid-power claim; the source notes many experts consider 2028 highly unlikely.",
+     "source_name": "Nuclear Engineering International",
+     "url": "https://www.neimagazine.com/news/helion-advances-fusion-energy-program/"
+    }
+   ],
+   "trajectory": {
+    "six_months": "Expect continued fundraising, SPARC assembly and commissioning news, and Helion Orion construction updates; no net-electricity fusion result is likely. Data-centre-driven grid strain and power-price politics will keep growing.",
+    "two_years": "SPARC may have first plasma and early physics results (target 2027), and Helion will have shown whether its 2028 date is realistic. Grid-connected fusion electricity is still unlikely by end-2028; the 2030s remain the central estimate."
+   },
+   "signals_to_watch": [
+    "SPARC first plasma (CFS target 2027) and any slip in that date",
+    "Helion Orion construction progress and the 2028 Microsoft 50 MW delivery date",
+    "US appropriations for DOE's new Office of Fusion and the milestone programme",
+    "Fusion Industry Association annual funding figures (next mid-2027) versus the record $4.48B",
+    "PJM and other grid operators' capacity auctions as data-centre demand grows"
+   ],
+   "clock_reasoning": "No fusion plant has shown net electricity, and credible plans cluster in the 2030s, with Helion's 2028 date viewed sceptically. A day after edition 001 nothing found justifies moving the clock; the grid-strain evidence (PJM cap, IEA demand outlook) is context rather than the fusion threshold. Bullish on Helion would go under 10; weighting historical slippage would go above 20.",
+   "unverified": [
+    "Current SPARC magnet count and first-plasma schedule: latest primary sources found were January 2026 (first of 18 magnets installed, all targeted by end of summer 2026); no later confirmation seen",
+    "Helion Orion construction progress since Feb 2026 not independently confirmed",
+    "ITER schedule, China's BEST, TAE and NIF latest yields not covered",
+    "IEA publication month for Electricity 2026 inferred from a search listing (April 2026); not confirmed on the page",
+    "Storage/solar deployment statistics not covered; no news from the last 48 hours was found"
+   ],
+   "since_last": "No material change found in the 48 hours since edition 001; this sweep added grid-side evidence (PJM, IEA) and the Natrium permit, so the clock holds at 13.0.",
+   "desk_minutes": 13.0,
+   "minutes": 13.0,
+   "calibration_note": "Kept. The IAEA outlook confirms no net-electricity fusion and plants aimed at the 2030s or later; grid strain is context, not the threshold.",
+   "factcheck": {
+    "status": "pass_with_corrections",
+    "notes": [
+     "IAEA World Fusion Outlook (ANS article, 13 Nov) confirmed: 26 plants planned (early 2030s to 2050s), 174 facilities, about $22B committed private capital, and an extra $80B needed. Both money figures are attributed to FusionX Group inside the outlook, not IAEA's own count; headline/summary say 'IAEA counts'. Article gives no net-electricity data.",
+     "PJM confirmed (Utility Dive, 15 Jul): cleared at the $325/MW-day cap, about 6.8 GW short of the 20% reserve margin target; roughly 2 GW forecast demand rise largely from data centres.",
+     "Story 2 (IEA Electricity 2026): URL is a chapter of a specific IEA report (Demand), not an index page. Text confirms 3.6% average annual growth over five years vs 2.8% over the past decade, and data centres about half of US demand growth. Publication date of '2026-04' is not stated in the fetched text; unverified. The fetch only gave excerpted text.",
+     "Stories 3, 4, 5 (Natrium permit, Helion) not checked; the summary's 'Natrium construction permit in March 2026' and 'CFS and Helion targeted 2027-2028' rest on them and on unchecked sources."
+    ]
+   },
+   "prev_minutes": 13.0,
+   "prev_trend": "closer"
+  },
+  {
+   "id": "geopolitics",
+   "name": "War & Geopolitics",
+   "kind": "threat",
+   "midnight_definition": "Direct, sustained armed conflict between major powers (for example US-China, US-Russia or NATO-Russia), with the potential for nuclear escalation.",
+   "trend": "steady",
+   "confidence": "medium",
+   "headline": "Xi, Trump and Putin are due to meet in Shenzhen on 19 Nov as Iran's Hormuz standoff simmers",
+   "summary": "China has confirmed a first-ever three-way meeting of the Chinese, US and Russian presidents in Shenzhen on 19 November, alongside APEC week, with the agenda undisclosed. Meanwhile the US-Iran war remains in a no-war-no-peace state: US forces struck an Iranian site on Qeshm Island on 3-4 November, Qatari-mediated talks have not broken through, and a US buildup in the region is reported. Russia-Ukraine fighting continues after the Abu Dhabi round yielded little beyond a prisoner swap.",
+   "top_stories": [
+    {
+     "title": "China confirms first Xi-Trump-Putin trilateral summit in Shenzhen on 19 November",
+     "date": "2026-11-16",
+     "why_it_matters": "A three-way meeting of the nuclear superpowers' leaders would be a first; Beijing has not disclosed the agenda, so what it will cover is unknown.",
+     "source_name": "Open Magazine",
+     "url": "https://openthemagazine.com/world/xi-trump-and-putin-to-hold-first-trilateral-summit-on-november-19"
+    },
+    {
+     "title": "US strikes Iranian air-defense site on Qeshm; Iran calls US Hormuz reply unconvincing",
+     "date": "2026-11-04",
+     "why_it_matters": "Trump called the strike limited and said it was not a war, but it is the sharpest US-Iran exchange of fire in this period. Iran says Hormuz reopens only if all seven of its conditions, including ending the blockade and sanctions relief, are met; US media report strike options and three carriers in the region.",
+     "source_name": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
+    },
+    {
+     "title": "Qatar-mediated US-Iran talks end without breakthrough; contacts continue",
+     "date": "2026-11-02",
+     "why_it_matters": "Iran compressed its September plan into a two-day sequence (lift blockade, reopen Hormuz, ease oil sanctions), while ruling out shipping out its enriched uranium; Trump rejected the earlier version. Iranian sources said a new US attack looked likelier than a deal.",
+     "source_name": "Al-Monitor (Reuters)",
+     "url": "https://al-monitor.com/originals/2026/11/iran-says-contacts-over-ending-war-continue-after-talks-finish-no-breakthrough"
+    },
+    {
+     "title": "Al Jazeera analysis: Iran-US 'no war, no peace' deadlock",
+     "date": "2026-11-12",
+     "why_it_matters": "Frames the standoff as unstable: ceasefire largely intact but blockade, Hormuz curbs and stalled talks leave room for renewed strikes.",
+     "source_name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us"
+    },
+    {
+     "title": "Ukraine war grinds on after Abu Dhabi talks; Kyiv cites heavy Russian losses",
+     "date": "2026-11-13",
+     "why_it_matters": "Fighting remains intense with no settlement; the parties' casualty claims are unverified, and Russia's demands remain far from Kyiv's.",
+     "source_name": "Al Jazeera",
+     "url": "https://aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates"
+    },
+    {
+     "title": "APEC week opens in Shenzhen with Xi as host and Japan-China tension in the background",
+     "date": "2026-11-16",
+     "why_it_matters": "The summit sets the stage for US-China trade-truce follow-up before the 10 January 2027 deadline; Japan's prime minister is attending despite strained ties with Beijing.",
+     "source_name": "China Global South Project",
+     "url": "https://chinaglobalsouth.com/2026/11/16/2026-apec-summit-shenzhen-china/"
+    }
+   ],
+   "trajectory": {
+    "six_months": "Renewed US-Iran strikes are the likeliest escalation path unless a phased Hormuz-for-blockade deal emerges; Ukraine stays a high-intensity war with intermittent talks. Outcomes of the Shenzhen meetings may shift the tone among the three major powers either way.",
+    "two_years": "Paths range from negotiated freezes in Ukraine and Iran to prolonged multi-theater rivalry with rising Taiwan Strait risk. The main danger is miscalculation among nuclear-armed states rather than a planned great-power war."
+   },
+   "signals_to_watch": [
+    "Outcome and any joint statement from the Xi-Trump-Putin meeting in Shenzhen on 19 November",
+    "Any further US or Israeli strikes on Iran, or a Qatar-brokered phased deal on blockade and Hormuz",
+    "US-China trade truce and rare-earth pause expiry on 10 January 2027",
+    "Further Russia-Ukraine rounds after Abu Dhabi and execution of the prisoner exchange",
+    "Taiwan Defense Ministry reports of PLA activity"
+   ],
+   "clock_reasoning": "Several wars involve great powers (US directly against Iran, Russia in Ukraine, China pressing Taiwan), but no direct war between major powers is under way and a leaders' summit is imminent. Nothing found in the last day justifies moving the clock; the Qeshm strike was already in the background of last edition's stalemate framing. Someone could argue for lower (3-4) given active US combat with Iran, or higher given the Shenzhen diplomacy.",
+   "unverified": [
+    "Outcome of the 19 November trilateral meeting (it had not happened at time of research); agenda reported inconsistently and Ukraine's absence rests on one source",
+    "Status of Israel-Lebanon and Gaza fronts in November 2026: searches returned only older or mixed-date results",
+    "Whether talks after Qeshm produced anything since 12 November; no Iran reporting dated 15-18 November was found",
+    "Reports of US carriers and prepared strike options come from US media as relayed by Al Jazeera",
+    "India-Pakistan, Venezuela, NATO-Russia incidents and Sudan not covered; SCMP APEC pages could not be fetched"
+   ],
+   "since_last": "New since edition 001: China confirmed a Xi-Trump-Putin trilateral for 19 November, and I found the 3-4 November US strike on Qeshm and the failed Qatar-mediated round, which edition 001 did not detail. The clock holds at 6.5 because these reinforce the existing picture rather than change it.",
+   "desk_minutes": 6.5,
+   "minutes": 6.5,
+   "calibration_note": "Kept. The Qeshm strike and failed Qatar round are confirmed but were already part of the stalemate; the Xi-Trump-Putin meeting is due on 19 Nov and has not happened, so it cannot move the clock yet.",
+   "factcheck": {
+    "status": "pass_with_corrections",
+    "notes": [
+     "Shenzhen trilateral confirmed: Open Magazine says China's Foreign Ministry announced a first Xi-Trump-Putin meeting on 19 Nov during APEC week, agenda undisclosed; a search shows many other outlets (Korea Times, Times of Oman, Hurriyet) reporting the same confirmation. The meeting has not happened as of 18 Nov, so the headline 'meet' should be future tense.",
+     "The Open Magazine article does not mention arms control, the Middle East or Ukraine; the desk's 'one report says arms control and Middle East expected, Ukraine not' was not verified. Drop or source it.",
+     "Qeshm strike confirmed (Al Jazeera 4 Nov): Trump confirmed US hit an anti-aircraft facility; Iranian media place it on Qeshm Island; strike was early Tue 3 Nov; US officials called it defensive after Iranian fire at a US aircraft. Contested: Trump called it a 'minor attack', Iran's security council secretary called the US reply on Hormuz unconvincing. Described neutrally enough.",
+     "Qatar-mediated talks ended without breakthrough, contacts ongoing (Al-Monitor/Reuters 2 Nov); Iranian sources said a new US attack seemed likelier than a deal.",
+     "Stories 3, 4, 5 (Al Jazeera deadlock analysis, Ukraine/Abu Dhabi, APEC week) not checked; the summary's Ukraine sentence, prisoner swap and 'US buildup' rest on them."
+    ]
+   },
+   "prev_minutes": 6.5,
+   "prev_trend": "closer"
+  },
+  {
+   "id": "governance",
+   "name": "Governance & Information",
+   "kind": "threat",
+   "midnight_definition": "A breakdown of the shared ability to govern and to agree on facts, such that large societies can no longer correct their own mistakes.",
+   "trend": "steady",
+   "confidence": "low",
+   "headline": "Democracy indices sit at multi-decade lows, while the US midterms, Brazil's runoff and Israel's election are moving through official processes",
+   "summary": "The 2026 V-Dem, Freedom House and RSF editions all report erosion, and 2025 set a record for internet shutdowns, but the EIU index reports a small global uptick, so the indices are not unanimous. In the US, Democrats won both chambers per AP calls with no dispute reported in the cited source. In Brazil, Lula won the runoff with just over 51%, and the runner-up has not conceded and is pursuing a challenge, offering no evidence in the report. In Israel, the president gave Eisenkot the first try at forming a government after the 27 October election and the outcome is open.",
+   "top_stories": [
+    {
+     "title": "Brazil: Lula wins runoff; Flavio Bolsonaro has not formally conceded",
+     "date": "2026-10-27",
+     "why_it_matters": "Lula took just over 51% of valid votes in the 25 Oct runoff. Bolsonaro's party recognised the result while saying questions about the vote needed clarifying; Bolsonaro, who has not conceded, said he would seek to annul it and then to have it disqualified over alleged abuse of political and economic power, and the report says he offered no evidence. Trump also called the vote rigged without evidence. The outcome now depends on how electoral bodies and courts handle the challenge.",
+     "source_name": "OPB (NPR)",
+     "url": "https://www.opb.org/article/2026/10/27/bolsonaros-party-accepts-lulas-win-as-its-candidate-vows-legal-challenge/"
+    },
+    {
+     "title": "Israel: president gives Eisenkot first try at forming a government",
+     "date": "2026-11-15",
+     "why_it_matters": "Eisenkot's bloc has 48 of 120 seats and the mandate runs to 6 December, extendable to 20 December. Disputes over leadership rotation and conscription exemptions block a majority, so a government is not assured and repeat elections are discussed by commentators.",
+     "source_name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel"
+    },
+    {
+     "title": "US midterms: Democrats win both chambers, per NPR tally of AP calls",
+     "date": "2026-11-04",
+     "why_it_matters": "A change of party control in Congress through the normal count, with no disputes over vote counts reported in this article. Mid-decade redistricting remains a contested issue between the parties.",
+     "source_name": "NPR via KUT",
+     "url": "https://www.kut.org/politics/2026-11-04/democrats-win-full-control-of-congress-ushering-in-a-new-era-of-divided-government"
+    },
+    {
+     "title": "EIU Democracy Index: global decline pauses after eight years",
+     "date": "2026-04-09",
+     "why_it_matters": "The EIU reports a small global rise, with nearly three quarters of 167 countries improving or flat, while the US score fell to 7.65 and stays a flawed democracy. It is a different method from V-Dem and Freedom House, so the picture is mixed rather than uniformly negative.",
+     "source_name": "Democracy Without Borders",
+     "url": "https://www.democracywithoutborders.org/42392/democracy-stabilizes-globally-after-eight-years-of-decline-eiu-says/"
+    },
+    {
+     "title": "V-Dem 2026: democracy for the average person at roughly 1978 levels",
+     "date": "2026-03-17",
+     "why_it_matters": "A leading expert-coded index reports 44 countries autocratising and freedom of expression as the most eroded pillar; it also counts 18 democratising countries. Classification of the US is contested by some observers.",
+     "source_name": "bne IntelliNews",
+     "url": "https://www.intellinews.com/democratic-decline-deepens-in-eastern-europe-as-global-slide-to-autocracy-accelerates-432094/"
+    },
+    {
+     "title": "Record 313 internet shutdowns across 52 countries in 2025",
+     "date": "2026-03-31",
+     "why_it_matters": "Access Now and the KeepItOn coalition count the most deliberate shutdowns it has recorded; shutdowns cut off news and the ability to verify events.",
+     "source_name": "Access Now",
+     "url": "https://www.accessnow.org/press-release/one-region-half-the-worlds-shutdowns-internet-shutdowns-in-the-asia-pacific-in-2025/"
+    }
+   ],
+   "trajectory": {
+    "six_months": "Expect a decision on Israel's government by late December, a resolution of Brazil's legal challenge, and the 2027 V-Dem, Freedom House and RSF editions (March to May) to show whether erosion continues. AI fakes and disputed counts will recur around each vote.",
+    "two_years": "The 2028 US cycle, AI-generated content at scale and UN funding limits are the main stressors. The open question is whether courts and election bodies keep absorbing disputed outcomes as they have recently."
+   },
+   "signals_to_watch": [
+    "Israel: Eisenkot mandate deadline 6 December (extendable to 20 December) and any move toward new elections",
+    "Brazil: whether electoral courts reject Flavio Bolsonaro's challenge and whether he concedes",
+    "US: certification of remaining midterm races and redistricting litigation",
+    "March to May 2027 V-Dem, Freedom House and RSF editions versus the EIU's mixed reading",
+    "UN 2027 regular budget decision in the General Assembly's Fifth Committee, due by year end"
+   ],
+   "clock_reasoning": "Held at 11. Evidence this sweep is mixed: the EIU reports a pause in decline while three other indices report lows, and the three big recent elections ended with outcomes settled by official bodies despite loud disputes. Those indices measure freedoms rather than a literal loss of self-correction, so the clock reflects a serious but decade-scale risk. Someone weighting the Brazil dispute and AI fakes heavily could go lower; someone weighting functioning courts and turnover of power could go higher.",
+   "unverified": [
+    "Brazil: no TSE or international observer statement found in the pieces read; margin figures come from the OPB/NPR piece (other outlets cite different vote totals) and a later formal outcome of the legal challenge was not checked",
+    "US: final seat counts, Senate totals beyond the NPR tally, and any formal concessions were not independently confirmed; the NPR piece reported no formal Trump or GOP concession",
+    "UN 2027 budget: a search headline indicates the Secretary-General proposed a smaller budget of about 3.3 billion dollars, but the page could not be fetched, so no figures or status are relied on",
+    "WJP Rule of Law Index, Edelman/Pew/Gallup trust data, WTO dispute settlement and ICC status were not covered",
+    "Nothing found from the last 48 hours specific to this beat; Israel report is dated 15 Nov and may be superseded"
+   ],
+   "since_last": "Edition 001 left Brazil's runoff and Israel's coalition as open threads: Brazil's loser has not formally conceded and is pursuing a challenge, and Israel's president has given Eisenkot the first mandate. The clock holds at 11 and the trend moves from closer to steady because the EIU adds a counter-signal and institutions have so far settled each dispute.",
+   "desk_minutes": 11.0,
+   "minutes": 11.0,
+   "calibration_note": "Kept. Checked facts show the US result conceded, Brazil's result under a challenge offered without evidence and Israel's coalition open, all inside official processes; the desk's headline was corrected for overreach.",
+   "factcheck": {
+    "status": "pass_with_corrections",
+    "notes": [
+     "Brazil (OPB, 27 Oct) confirmed: Lula just over 51%, Flavio Bolsonaro not conceded, party recognised result but said questions remain, he moved to seek disqualification citing abuse of power with no evidence offered. Source also reports Trump called vote rigged without evidence; desk omits that, fine.",
+     "Israel (Al Jazeera, 15 Nov) confirmed: Herzog gave Eisenkot first try; election was 27 Oct; deadline 6 Dec; coalition math unresolved. The outcome is NOT settled.",
+     "US midterms (KUT/NPR, 4 Nov) confirmed: Democrats win both chambers per AP calls via NPR; the article mentions no disputed results and says Speaker Johnson conceded the House.",
+     "Neutrality problem: headline says US, Israeli and Brazilian votes 'were still settled'. Israel government formation is open and Brazil is under challenge; US has no dispute in the cited source. Summary's 'loud disputes' and 'courts and election bodies still deciding outcomes' is not shown for the US and Israel from the cited pages. Replaced with neutral description.",
+     "Index stories 3,4,5 (EIU, V-Dem, Access Now) not checked; they are secondary/press-release pages and the summary's claims about them (EIU uptick, 313 shutdowns, 1978 levels) are unverified by me. Clock hold at 11 is judgment and consistent with checked facts."
+    ]
+   },
+   "prev_minutes": 11.0,
+   "prev_trend": "closer"
+  },
+  {
+   "id": "nuclear",
+   "name": "Nuclear & Strategic Weapons",
+   "kind": "threat",
+   "midnight_definition": "The first use of a nuclear weapon in war, or an uncontrolled escalation toward large-scale nuclear exchange, which cannot be undone.",
+   "trend": "steady",
+   "confidence": "medium",
+   "headline": "IAEA board meets on Iran as no inspector has seen its uranium stockpile for over a year",
+   "summary": "No treaty has capped US and Russian strategic arsenals since New START lapsed in February 2026, and the Bulletin's Doomsday Clock stands at a record 85 seconds. The IAEA's 13 November report says it cannot locate Iran's roughly 440 kg of near-weapons-grade uranium and cannot rule out diversion, while Iranian clerics are openly debating dropping the no-bomb pledge and nuclear talks with Washington have not begun. North Korea is expanding enrichment capacity, and Russia-NATO nuclear signalling continues at a steady, not sharply rising, level.",
+   "top_stories": [
+    {
+     "title": "IAEA says Iran's highly enriched uranium still unaccounted for; board meets next",
+     "date": "2026-11-15",
+     "why_it_matters": "Bloomberg reporting says inspectors have been shut out since the June 2025 strikes, cannot say where about 440 kg of near-weapons-grade uranium is, and Iran rules out regular monitoring for now. The IAEA board meets in Vienna this coming week.",
+     "source_name": "Bloomberg via TNS (Jefferson City News Tribune)",
+     "url": "https://www.newstribune.com/news/2026/nov/15/iran-extends-shutout-of-un-nuclear-inspectors/"
+    },
+    {
+     "title": "IAEA voices growing concern over Iran's underground enrichment plant",
+     "date": "2026-11-13",
+     "why_it_matters": "The confidential report says the agency lacks access to the Isfahan underground site and has lost continuity of knowledge over the stockpile.",
+     "source_name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/13/iaea-expresses-concern-over-iranian-underground-uranium-enrichment-plant/"
+    },
+    {
+     "title": "Iranian clerics push to drop the pledge against nuclear weapons",
+     "date": "2026-11-03",
+     "why_it_matters": "A New York Times report, summarised by Carnegie's Proliferation News, says calls inside Iran to abandon the pledge are growing and public support for a bomb is rising, which would be a major doctrinal shift.",
+     "source_name": "Carnegie Endowment (Proliferation News, 5 Nov)",
+     "url": "https://carnegieendowment.org/programs/nuclear-policy/proliferation-news/proliferation-news-november-5-2026"
+    },
+    {
+     "title": "IAEA reports a second North Korean uranium enrichment building at Yongbyon",
+     "date": "2026-09-09",
+     "why_it_matters": "Satellite analysis points to a new building that could hold up to 28 centrifuge cascades, plus an operating Kangson site since January, so fissile material production is growing with no inspectors in the country since 2009.",
+     "source_name": "Asharq Al-Awsat",
+     "url": "https://english.aawsat.com/world/5316278-north-korea-builds-new-yongbyon-uranium-enrichment-facility-iaea-says"
+    },
+    {
+     "title": "New START expires; no limits on US and Russian arsenals",
+     "date": "2026-02-05",
+     "why_it_matters": "The last cap on deployed strategic warheads lapsed. Russia said it would observe the old limits only while the US does; the US wants a broader deal including China. I found no newer verified update on adherence.",
+     "source_name": "PBS NewsHour",
+     "url": "https://www.pbs.org/newshour/amp/world/russia-says-it-regrets-expiration-of-last-nuclear-arms-treaty-but-trump-says-he-wants-a-new-pact"
+    },
+    {
+     "title": "Doomsday Clock set to record 85 seconds to midnight",
+     "date": "2026-01-27",
+     "why_it_matters": "The Bulletin's closest-ever setting cited the end of New START, stalled dialogue, nuclear coercion talk and states weighing their own weapons.",
+     "source_name": "Bulletin of the Atomic Scientists",
+     "url": "https://thebulletin.org/2026/01/press-release-it-is-85-seconds-to-midnight/"
+    }
+   ],
+   "trajectory": {
+    "six_months": "Expect continued absence of binding US-Russia limits, an IAEA-Iran standoff with possible board censure, and further North Korean fissile-material growth. An explosive test by any state is possible but not the base case.",
+    "two_years": "Without a successor framework, warhead uploads and a three-way US-Russia-China build-up become the default. Iran's nuclear choice and the future of the testing moratorium are the main wildcards."
+   },
+   "signals_to_watch": [
+    "IAEA Board of Governors meeting in Vienna (week of 17 Nov): any resolution on Iran, and whether inspectors regain access to Isfahan",
+    "Iranian official statements on NPT membership or the no-weapons pledge",
+    "Any US or Russian announcement of warhead uploads or abandoning informal adherence to old New START limits",
+    "Any explosive nuclear test or CTBTO detection by US, Russia, China or North Korea",
+    "Start (or not) of US-Iran nuclear negotiations; formal US-Russia-China arms talks"
+   ],
+   "clock_reasoning": "I hold 4.5 minutes. The structural guardrails are gone and Iran's material is unverified with its internal debate shifting, but fighting wound down in April, there is no sign of imminent use, and nothing in the last 48 hours materially changes the picture. Lower would need explicit deployment-linked threats, a test or an Iranian weaponisation signal; higher would need a working successor framework or restored inspections. This is my own judgment, not a measurement.",
+   "unverified": [
+    "Whether the US and Russia still informally observe former New START limits as of November 2026; the latest sources I saw were from February.",
+    "Whether the US has conducted or scheduled an explosive test; searches returned only 2025 and early-2026 items.",
+    "Exact dates of the IAEA board meeting and any draft resolution.",
+    "Current Russia-Ukraine nuclear rhetoric: search returned mostly older Medvedev items, nothing dated within the past month except false nuclear alerts sent through alert apps around 1 Nov (secondhand via Carnegie).",
+    "Golden Dome, hypersonics, India-Pakistan and Saudi proliferation not covered this sweep; armscontrol.org news page failed to fetch."
+   ],
+   "since_last": "Follow-up confirmed the Iran/IAEA picture with Bloomberg detail (about 440 kg of HEU unlocated, board meeting this week) and added Iranian bomb-pledge debate and North Korea's enrichment expansion; no event justified moving the clock, so it holds at 4.5.",
+   "desk_minutes": 4.5,
+   "minutes": 4.5,
+   "calibration_note": "Kept. The fact-checker passed this desk in full: about 440 kg of Iranian highly enriched uranium is still unverified with inspectors out since mid-2025 and no arms-control caps, but there is still no sign of imminent use.",
+   "factcheck": {
+    "status": "pass",
+    "notes": [
+     "Checked Iran/IAEA (Tribune/Bloomberg 15 Nov, The National 13 Nov) and Carnegie newsletter (5 Nov): all exist and match.",
+     "Tribune: about 441 kg HEU unverified, inspectors out since June 2025, IAEA says cannot conclude no diversion, board meets next week, Iran rules out regular monitoring now, talks not started. The National says 'more than 400 kg', so the ~440 kg figure is sourced to the Tribune article only.",
+     "Clerics debate: the Carnegie page is a newsletter linking an NYT piece; confirms mainstream debate on dropping the pledge. The page says nothing on Washington talks status (that is from the Tribune).",
+     "Nuclear stories 3 (Yongbyon), 4 (New START), 5 (Doomsday Clock 85 seconds) not checked. Clock hold at 4.5 is stated as judgment; headline is measured, not sensational."
+    ]
+   },
+   "prev_minutes": 4.5,
+   "prev_trend": "closer"
+  },
+  {
+   "id": "resources",
+   "name": "Food, Water & Resources",
+   "kind": "threat",
+   "midnight_definition": "Simultaneous failure of several major food-producing regions, or a resource shock, that causes mass hunger across multiple continents.",
+   "trend": "steady",
+   "confidence": "medium",
+   "headline": "Hormuz still choked while a possibly record-strength El Nino builds toward the 2027 harvests",
+   "summary": "Hormuz traffic remains about 65 percent below pre-war levels with tanker attacks continuing (seven tanker incidents in the latest UKMTO week), though crude exports and oil supply have partly recovered. NOAA now reports a strong El Nino (Nino 3.4 about +2.5C) with over 79 percent odds of strong-to-very-strong conditions through early 2027 and about a 60 percent chance of historic strength, landing on top of a fertiliser squeeze. Headline food prices are only mildly elevated (FAO 133.9) and Red Sea traffic is recovering, so the risk is 2027 yields, not current shortage.",
+   "top_stories": [
+    {
+     "title": "Hormuz traffic still about 65% below pre-war; seven tanker attacks in latest UKMTO week",
+     "date": "2026-11-13",
+     "why_it_matters": "UKMTO logged eight incidents in its latest week, seven on tankers. IEA says Gulf oil exports reached 18.4 mb/d in October, still 26% under pre-war, with a projected Q4 supply surplus of 1.7 mb/d. Related headlines on the page point to further tanker attacks on 16 November, which the article itself does not cover.",
+     "source_name": "gCaptain",
+     "url": "https://gcaptain.com/gulf-oil-exports-recover-as-hormuz-shipping-struggles/"
+    },
+    {
+     "title": "NOAA: strong El Nino in place, over 79% odds it stays strong into early 2027",
+     "date": "2026-11-12",
+     "why_it_matters": "Niño 3.4 anomaly near +2.5C and a roughly 60% chance of historic strength raise risks for crops in Australia, India, Southeast Asia and Brazil. Next update is 10 December.",
+     "source_name": "FOX10 (reporting NOAA CPC)",
+     "url": "https://www.fox10tv.com/2026/11/12/el-nio-continues-strengthen-what-it-could-mean-gulf-coast-heading-into-2027/?outputType=amp"
+    },
+    {
+     "title": "FAO food price index confirmed: 133.9 in October, down 1.2%, still 5.9% up on year",
+     "date": "2026-11-06",
+     "why_it_matters": "Confirmed on FAO's own page: cereals fell 4.5% and sugar rose 6.6%, vegetable oils stay very high at 199.2. Prices are lagging the fertiliser and weather shocks.",
+     "source_name": "FAO",
+     "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/"
+    },
+    {
+     "title": "Hunger Hotspots: Sudan, South Sudan, Yemen, Gaza, Nigeria, Somalia at highest concern",
+     "date": "2026-06",
+     "why_it_matters": "Famine risk covers 14 areas of Darfur and Kordofan, with about 200,000 people projected in IPC Phase 5; DR Congo is a very-high-concern hotspot with Ebola complicating food access. Data cutoff was 5 June, so it predates later alerts.",
+     "source_name": "FAO-WFP Hunger Hotspots",
+     "url": "https://www.foodsecurityportal.org/sites/default/files/2026-06/HH_June-Nov2026_FINAL.pdf"
+    },
+    {
+     "title": "Red Sea recovery continues: Suez transits at post-crisis high, no attacks since August",
+     "date": "2026-11-12",
+     "why_it_matters": "Suez October transits were about 34% below pre-crisis and Bab el Mandeb about 46% below, but both are rising. A large unexplained blast near Bab el Mandeb on 6 November keeps the risk live.",
+     "source_name": "Lloyd's List Intelligence",
+     "url": "https://www.lloydslistintelligence.com/resources/blog/red-sea-brief---12-november-2026"
+    },
+    {
+     "title": "US finalises Colorado River 2027-28 rules with 1.25 million acre-foot Lower Basin cuts",
+     "date": "2026-08-21",
+     "why_it_matters": "Sets the first post-2026 water regime for a basin feeding major farm regions, with Lake Powell protected near 3,510 ft and the final 2027 release set in April.",
+     "source_name": "US Department of the Interior",
+     "url": "https://www.doi.gov/pressreleases/interior-department-finalizes-plans-2027-2028-colorado-river-operations"
+    }
+   ],
+   "trajectory": {
+    "six_months": "Fertiliser cost and availability will shape 2027 planting just as El Niño impacts on Southern Hemisphere and Asian crops emerge. Sudan and other hotspots likely worsen without funding.",
+    "two_years": "If Hormuz stays impaired and El Niño cuts yields in several regions, a multi-continent food price spike is plausible; if shipping normalises, the system probably absorbs it with regional hunger increases."
+   },
+   "signals_to_watch": [
+    "NOAA ENSO update on 2026-12-10 and Australian, Indian and Brazilian crop estimates",
+    "FAO Food Price Index in early December and January, especially vegetable oils and rice",
+    "Weekly UKMTO Hormuz transit counts and tanker attacks",
+    "China rare-earth suspension expiry around 2027-01-10",
+    "Any new IPC famine classification in Sudan"
+   ],
+   "clock_reasoning": "Midnight needs several breadbaskets failing together or a shock causing mass hunger across continents. Overlapping drivers (Hormuz, fertiliser, a possibly historic El Niño) are real, but prices are only moderately elevated, oil is in surplus and Red Sea traffic is recovering, so nothing in the last day justifies a move. Someone could set it closer by weighting El Niño plus fertiliser effects on 2027 yields, or farther if Hormuz normalises.",
+   "unverified": [
+    "El Niño figures come from a local TV report relaying NOAA; not checked on the NOAA CPC page itself.",
+    "Hormuz 65% figure combines AIS data with US-reported transits that UKMTO says it could not verify.",
+    "Latest fertiliser (urea) price levels for November not confirmed; only older Fertilizer Daily headlines seen.",
+    "Gaza and DR Congo current IPC status not confirmed beyond the June Hunger Hotspots report.",
+    "Panama Canal status, India aquifers, Tehran water and fisheries not researched.",
+    "Lloyd's List brief is internally inconsistent on whether Houthi attacks have resumed."
+   ],
+   "since_last": "Held at 6.0. The FAO October index was verified on fao.org, NOAA's strong El Niño and Red Sea recovery were added, and attacks on Hormuz tankers continued on 16 November; none of this changes the picture materially.",
+   "desk_minutes": 6.0,
+   "minutes": 7.5,
+   "calibration_note": "Kept. NOAA's strong El Nino and Hormuz traffic about 65% down are now confirmed, but historic strength is only a probability, food prices are mild and oil is in surplus, and the new tanker-attack claim overreached.",
+   "factcheck": {
+    "status": "pass_with_corrections",
+    "notes": [
+     "gCaptain article is dated 13 Nov, not 16 Nov. It confirms ~65% below pre-war traffic, 8 UKMTO incidents (7 tankers), IEA Gulf exports 18.4 mb/d (26% below pre-war), Q4 surplus 1.7 mb/d. The '16 November, two more tankers hit' claim appears only in related-article teasers on that page, not in the article; headline/summary overreach on that.",
+     "NOAA via Fox10 (12 Nov): El Nino advisory, Nino 3.4 +2.5C, over 79% chance of strong-to-very-strong through JFM 2027, and about 60% chance of reaching historic strength. 'Record-class' in the headline is a probability, not an observation; reworded.",
+     "FAO Food Price Index 133.9 for October, down 1.2% m/m, up 5.9% y/y confirmed on fao.org (page is a live index page, so it will change).",
+     "Stories 3 (Hunger Hotspots PDF), 4 (Lloyd's List), 5 (Colorado River) not checked. Clock hold at 6.0 is judgment; no clock-moving claim rests on the unsupported 16 Nov detail."
+    ]
+   },
+   "prev_minutes": 7.5,
+   "prev_trend": "closer"
+  },
+  {
+   "id": "robotics",
+   "name": "Robotics & Autonomy",
+   "kind": "frontier",
+   "midnight_definition": "General-purpose robots (humanoid or otherwise) doing ordinary physical work at scale more cheaply than human labour, across many job types rather than in a few controlled niches.",
+   "trend": "steady",
+   "confidence": "low",
+   "headline": "Autonomy scales in narrow niches (trucks, taxis) while humanoid AI still fails fine tasks",
+   "summary": "Narrow autonomy keeps scaling: Aurora has passed 500,000 driverless truck miles and is building trucks at a growing rate though about six weeks behind plan, Zoox is extending its purpose-built robotaxi testing to more cities, and Tesla and Waymo continue expansion. Robot foundation models are improving (Google DeepMind's Gemini Robotics 2), but published numbers show weak results on some fine manipulation tasks, and humanoid production is still small. Nothing in the last day changes the picture from edition 001.",
+   "top_stories": [
+    {
+     "title": "Aurora passes 500,000 driverless miles; production ramp about six weeks behind plan",
+     "date": "2026-10-28",
+     "why_it_matters": "Driverless trucking is real and growing (more than 20 trucks built, target above 200 by end of February, over 1,000 by end of 2027), yet revenue is tiny at about 3 million dollars in Q3 (about 9 million expected for 2026) and the production ramp is about six weeks behind plan.",
+     "source_name": "SEC (Aurora Q3 shareholder letter)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001828108/000182810826000092/aurora26q3shareholderlet.htm"
+    },
+    {
+     "title": "Zoox extends robotaxi testing to Atlanta, following Austin and Miami",
+     "date": "2026-11-13",
+     "why_it_matters": "Amazon's steering-wheel-free robotaxi is open to the public in Las Vegas and in an early-rider program in San Francisco; Atlanta rides are limited to employees and guests for now, and fleet size is undisclosed.",
+     "source_name": "Atlanta News First",
+     "url": "https://www.atlantanewsfirst.com/2026/11/13/zoox-robotaxis-rolling-out-atlanta/?outputType=amp"
+    },
+    {
+     "title": "Google DeepMind releases Gemini Robotics 2 for whole-body humanoid control",
+     "date": "2026-07-30",
+     "why_it_matters": "A single model can drive a humanoid's legs and hands and adapt to a new robot body from under 200 examples, but reported success rates were 92% for unscrewing a bulb and only about 40% for sealing a bag, so general dexterity is not solved.",
+     "source_name": "The Next Web",
+     "url": "https://thenextweb.com/news/gemini-robotics-2-whole-body-humanoid-control"
+    },
+    {
+     "title": "Humanoid deployments: Figure at BMW, Agility totes, Unitree unit costs down 70%",
+     "date": "2026-07",
+     "why_it_matters": "Reported figures include Figure units contributing to over 30,000 BMW vehicles, over 100,000 totes moved by Agility's Digit, and Unitree prices falling from about 85K to 25K dollars with roughly 60% gross margin in its IPO filing; the cost curve is the key variable for midnight. Secondary source, date approximate.",
+     "source_name": "AI Weekly",
+     "url": "https://aiweekly.co/alerts/humanoid-robots-scale-at-bmw-as-unit-costs-fall-70"
+    },
+    {
+     "title": "Tesla starts Optimus production at Fremont, calls ramp slow and uneven",
+     "date": "2026-10-21",
+     "why_it_matters": "First production humanoids from the largest would-be volume maker, though the company concedes the robot still needs significant work. Carried from edition 001.",
+     "source_name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
+    },
+    {
+     "title": "Waymo reaches 500,000 paid driverless rides a week in 10 US cities",
+     "date": "2026-03-26",
+     "why_it_matters": "Still the newest official Waymo volume figure I could find; the stated goal is a million a week by end of 2026.",
+     "source_name": "InsideEVs",
+     "url": "https://insideevs.com/news/791245/waymo-rides-per-week-2026-doubled/"
+    }
+   ],
+   "trajectory": {
+    "six_months": "Aurora should show whether it reaches 200 trucks by end of February; Zoox and Waymo keep adding cities; humanoid output stays in the hundreds to low thousands per maker.",
+    "two_years": "Driverless trucks and robotaxis become routine on major corridors in the US and China, and humanoids reach tens of thousands of units in pilots, with cost-competitive general labour still unlikely."
+   },
+   "signals_to_watch": [
+    "Aurora truck count versus 20 per week by early December and over 200 by end of February",
+    "Waymo's next weekly-ride figure against its 1 million per week year-end goal",
+    "Tesla Q4 results on Optimus output and unsupervised robotaxi timing",
+    "Zoox opening Atlanta, Austin and Miami to public riders",
+    "Gemini Robotics 2 and Physical Intelligence success rates on fine manipulation in real deployments"
+   ],
+   "clock_reasoning": "Narrow autonomy is scaling, but midnight needs general-purpose robots doing varied work more cheaply than people, and the best published robot model results still fail often on fine tasks. Falling humanoid unit prices and early trucking deployment are real, but no new evidence moved the estimate in one day, so I hold 13. Someone weighting Chinese hardware cost curves could argue for under 10; someone weighting dexterity failure rates could argue for 20 or more.",
+   "unverified": [
+    "Waymo's current (Nov 2026) weekly rides and fleet size: searches returned only the March 2026 figure and older material",
+    "Tesla robotaxi fleet size: search headlines suggest conflicting reports (shrinking versus growing) that I did not open",
+    "China regulatory pause of May 2026 and Apollo Go status not checked this edition",
+    "Humanoid cost and deployment numbers come from a secondary aggregator without a clear date",
+    "Amazon robot count and Figure 03 and Physical Intelligence updates not confirmed"
+   ],
+   "since_last": "Added Aurora, Zoox and Gemini Robotics 2 coverage from open threads; no new event in the last day changed the picture, so the clock holds at 13.0 and trend moves from closer to steady.",
+   "desk_minutes": 13.0,
+   "minutes": 13.0,
+   "calibration_note": "Kept. Aurora's driverless miles and Zoox testing are confirmed, but published robot results still fail often on fine tasks and humanoids remain at small volume.",
+   "factcheck": {
+    "status": "pass_with_corrections",
+    "notes": [
+     "Aurora SEC letter (28 Oct) confirmed: 500,000+ driverless miles, 20+ trucks, 200 by end Feb, 1,000+ by end 2027, Q3 revenue $3M, ramp ~6 weeks behind. The letter gives ~$9M 2026 revenue but does not state a prior outlook, so 'cuts 2026 revenue outlook' is unsupported; title corrected.",
+     "Zoox (13 Nov) confirmed as testing only in Atlanta (employees, friends and family; public waitlist planned); summary phrase 'spreading to more cities' is fine but should not imply public service.",
+     "Gemini Robotics 2 (TNW, 30 Jul): published fine-task rates are mixed, 92% light bulb, 44% trash bag, 40% ziplock, so 'weak on fine manipulation' is supported for some tasks.",
+     "Stories 3 (humanoid deployments/Unitree 70%), 4 (Tesla Optimus), 5 (Waymo 500k rides) not checked; the summary's Tesla/Waymo lines rest on them. Clock hold at 13 is judgment."
+    ]
+   },
+   "prev_minutes": 13.0,
+   "prev_trend": "closer"
+  },
+  {
+   "id": "society",
+   "name": "Global Health & Demographics",
+   "kind": "threat",
+   "midnight_definition": "Demographic and social strain (ageing, shrinking workforces, health-funding collapse) becomes so severe that major societies can no longer sustain their pensions, health systems and workforce.",
+   "trend": "steady",
+   "confidence": "low",
+   "headline": "Aid fell a record 23% in 2025 as WHO warns health gains are reversing",
+   "summary": "Official development assistance dropped by nearly a quarter in 2025, the largest fall on record, and aid agencies warn of further pressure. WHO's 2026 statistics report says the world is off track on health goals, with some areas reversing, while a new economics paper argues global fertility is already near replacement level and world population may peak decades earlier than the UN expects (a single paper, contested). Pension strain is visible in Europe, but nothing in the last 48 hours changed the picture.",
+   "top_stories": [
+    {
+     "title": "Global aid fell 23.1% in 2025, the biggest drop on record",
+     "date": "2026-04-10",
+     "why_it_matters": "Preliminary OECD data show the US drove roughly three-quarters of the fall, with Germany, France, the UK and Japan also cutting; humanitarian aid fell about 36%. The Global Fund and Gavi face critical shortfalls.",
+     "source_name": "Health Policy Watch",
+     "url": "https://healthpolicy-watch.news/oda-cuts-major-donors-slash-aid/"
+    },
+    {
+     "title": "OECD confirms largest annual aid drop in its history",
+     "date": "2026-04",
+     "why_it_matters": "The OECD's own release puts the 2025 real-terms fall at 23.1% for DAC members and associates, the primary-source confirmation of the trend behind health-funding strain.",
+     "source_name": "OECD",
+     "url": "https://www.oecd.org/en/about/news/press-releases/2026/04/international-aid-fell-sharply-in-2025-says-oecd.html"
+    },
+    {
+     "title": "WHO: world off track on health goals, gains reversing in places",
+     "date": "2026-05-13",
+     "why_it_matters": "Malaria incidence is up 8.5% since 2015 and coverage progress has slowed, though new HIV infections are down 40% since 2010. WHO calls the financing situation a worsening crisis and notes most countries report death data late.",
+     "source_name": "News-Medical (on WHO World Health Statistics 2026)",
+     "url": "https://www.news-medical.net/news/20260513/Global-health-progress-reversing-in-several-critical-areas-WHO-warns.aspx"
+    },
+    {
+     "title": "Paper: world fertility near 2.2, population peak around 2056",
+     "date": "2026-08-24",
+     "why_it_matters": "Two economists argue the global rate is about at replacement and population could peak near 9 billion, about three decades before the UN's central projection. This is a contested projection, not official UN data.",
+     "source_name": "bne IntelliNews",
+     "url": "https://www.intellinews.com/global-fertility-rates-fall-below-the-replacement-rate-for-the-first-time-463085/"
+    },
+    {
+     "title": "French parliament voted to freeze 2023 pension age rise",
+     "date": "2025-11",
+     "why_it_matters": "The Assembly voted to hold the retirement age at 62 years 9 months until after the 2027 election, at a stated cost of about 1.9 billion euros in 2027. It shows how hard pension adjustment is politically; this is older news and its current status was not confirmed.",
+     "source_name": "JURIST",
+     "url": "https://www.jurist.org/news/2025/11/france-votes-to-suspend-pension-reform-law"
+    }
+   ],
+   "trajectory": {
+    "six_months": "Expect more record-low birth figures from East Asia and early signs of aid-cut effects in immunization and disease data; donor budgets for 2027 will show whether cuts deepen.",
+    "two_years": "Aid is projected to decline further in 2026, so measurable health setbacks in low-income countries are likely, while ageing pushes pension and retirement-age fights across Europe and Asia."
+   },
+   "signals_to_watch": [
+    "OECD final 2025 ODA data and 2027 donor budget decisions",
+    "China, Japan and Korea 2026 birth counts (early 2027)",
+    "Gavi and Global Fund funding gaps and any programme cutbacks",
+    "UN World Population Prospects update vs the 2056 peak claim",
+    "European pension rules ahead of France's 2027 election"
+   ],
+   "clock_reasoning": "Demographic decline is near-certain but pension and health-system failure is gradual and policy-dependent, so the 10 to 20 band fits. Record aid cuts and WHO's reversal warnings keep it on the closer side at 17. No evidence this run justified a move; someone who expects faster health-system damage from aid cuts, or who trusts the earlier population peak, would set it lower.",
+   "unverified": [
+    "Whether France's pension suspension was finalised and its current status in late 2026 (only the Nov 2025 Assembly vote was seen).",
+    "Fetch of the Anadolu piece on the French Senate failed.",
+    "Total ODA dollar amount and health-specific aid totals were not retrieved.",
+    "Fertility paper figures are one outlet's summary of a working paper, not peer-reviewed or UN data.",
+    "Not covered: life expectancy figure, poverty, loneliness, housing, China and Japan pension news; no fresh news from the last 48 hours was found."
+   ],
+   "since_last": "No material change in the last day; this sweep added aid-cut, WHO statistics and fertility-projection context, so the clock holds at 17.0.",
+   "desk_minutes": 17.0,
+   "minutes": 17.0,
+   "calibration_note": "Kept. The record aid fall and WHO's warning are confirmed, but they play out over decades and depend on policy; the early-population-peak paper is single and contested.",
+   "factcheck": {
+    "status": "pass_with_corrections",
+    "notes": [
+     "Health Policy Watch (10 Apr): ODA fell 23.1% in real terms in 2025, most severe on record; US about three-quarters of the fall (US cut ~57%); humanitarian aid -36%; Global Fund and Gavi warned. Confirmed.",
+     "OECD press release exists and confirms 23.1% fall and 'largest annual drop in history'. Its 2026 projection was not visible in the portion I read (page truncated), so summary's 'OECD projects a further decline in 2026' is not confirmed by me.",
+     "WHO World Health Statistics 2026 (13 May, News-Medical): off track on all health-related SDGs, progress slowing and in some areas reversing. Confirmed; 'gains reversing' is in places only.",
+     "Stories 3 (fertility paper) and 4 (France pensions, Nov 2025, over a year old) not checked. The fertility/peak 2056 claim in summary is an unreviewed-sounding economics paper per desk; flag as contested. Clock hold at 17 is judgment."
+    ]
+   },
+   "prev_minutes": 17.0,
+   "prev_trend": "closer"
+  },
+  {
+   "id": "space",
+   "name": "Space",
+   "kind": "frontier",
+   "midnight_definition": "Permanent human presence beyond Earth becomes self-sustaining in practice: routine, cheap, fully reusable heavy lift plus a crewed base that persists.",
+   "trend": "steady",
+   "confidence": "medium",
+   "headline": "Starship's ship catch stands, but refuelling is still unproven and orbit grows more contested",
+   "summary": "Starship Flight 15 returned its ship to the tower about 22.5 hours after launch, while the booster aborted its catch and splashed down in the Gulf. Orbital refuelling, needed for any lunar landing, has no demonstration date yet, and NASA still targets a first crewed landing on Artemis IV in 2028 with Blue Moon as a possible fallback. On the threat side, analysts and war-game reports describe a growing risk from Russian orbital anti-satellite and nuclear-in-orbit concepts, with US response options judged thin.",
+   "top_stories": [
+    {
+     "title": "After Flight 15: ship caught, refuelling and reflight still ahead",
+     "date": "2026-11-14",
+     "why_it_matters": "SpaceX says double catches become standard, but no rapid reflight of either stage has been shown and the first refuelling test has no firm date. Tanker visits needed per lunar mission are estimated from six or eight up to 22.",
+     "source_name": "Space.com",
+     "url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch"
+    },
+    {
+     "title": "Artemis IV 2028 landing depends on Starship crew cabin; Blue Moon is fallback",
+     "date": "2026-11-14",
+     "why_it_matters": "SpaceX reportedly aims to finish a full-scale crew cabin ground prototype by end of 2026; if Ship is late, NASA may turn to Blue Origin's lander.",
+     "source_name": "Space.com",
+     "url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch"
+    },
+    {
+     "title": "Analyst: Russia treats destroying satellites as part of nuclear war planning",
+     "date": "2026-08-06",
+     "why_it_matters": "An FPRI paper argues Russia has long viewed destroying US satellites as part of nuclear war planning and may be exploring nuclear-armed satellites; the paper says much of this is inference from Russian military writings.",
+     "source_name": "Foreign Policy Research Institute",
+     "url": "https://www.fpri.org/article/2026/08/taking-leo-off-the-board-russian-thinking-about-anti-satellite-warfare/"
+    },
+    {
+     "title": "War-game report: US lacks response options to a nuclear weapon in orbit",
+     "date": "2026-09-16",
+     "why_it_matters": "A think-tank study found the US unprepared in all four tabletop scenarios, with weak detection and attribution and no tested recovery plan after an orbital detonation.",
+     "source_name": "Military Times",
+     "url": "https://www.militarytimes.com/news/your-air-force/2026/09/16/us-not-prepared-to-respond-to-nuclear-attacks-in-space-report-says/"
+    },
+    {
+     "title": "China's Mengzhou 1 still listed as a late-2026 debut on Long March 10A",
+     "date": "2026-11",
+     "why_it_matters": "The capsule's first orbital flight and Tiangong docking is the next marker for China's 2030 crewed landing goal; reference sources show it as planned, not yet flown.",
+     "source_name": "Wikipedia (Mengzhou 1)",
+     "url": "https://en.wikipedia.org/wiki/Mengzhou_1"
+    }
+   ],
+   "trajectory": {
+    "six_months": "Expect investigation of the booster abort, a Flight 16, possibly the first propellant transfer demonstration, and a Mengzhou 1 attempt.",
+    "two_years": "Artemis III orbital rehearsal in 2027 and a landing attempt around Artemis IV in 2028 are the milestones; a persistent crewed base is still beyond this window."
+   },
+   "signals_to_watch": [
+    "First Starship ship-to-ship propellant transfer date",
+    "Flight 16 timing and whether a booster catch succeeds",
+    "Mengzhou 1 / Long March 10A launch and Tiangong docking",
+    "SpaceX crew cabin ground prototype by end of 2026",
+    "Any Russian co-orbital or nuclear-in-orbit developments"
+   ],
+   "clock_reasoning": "Nothing found in the last day changes the picture: a ship has been caught, but cheap routine reusable heavy lift, refuelling and a persistent base remain undemonstrated. First landing is targeted for 2028 and China's for 2030, so roughly a decade away. This is judgment; someone confident in 2027 refuelling could set it nearer 8 minutes, while someone weighting orbital conflict risk could set it farther.",
+   "unverified": [
+    "FAA mishap investigation status for Flight 15 (not stated in sources; search surfaced only Flight 12 coverage)",
+    "Whether Mengzhou 1 has flown (reference page may be out of date)",
+    "Space weather and solar cycle 25 current status (search returned only archive pages, not read)",
+    "Commercial stations (Vast Haven-1 date) and planetary defence not confirmed; results were old",
+    "Moscow Times result dated 2026 actually described a 2021 Russian ASAT test and was discarded"
+   ],
+   "since_last": "Followed up Flight 15 aftermath (no new FAA, Flight 16 or refuelling dates found) and added the ASAT threat-side gap from August and September 2026 sources. Clock held at 14.0 because nothing new in 24 hours moves it.",
+   "desk_minutes": 14.0,
+   "minutes": 14.0,
+   "calibration_note": "Kept. The desk passed in full; the ship catch stands, refuelling still has no date, and a crewed landing is 2028 at the earliest.",
+   "factcheck": {
+    "status": "pass",
+    "notes": [
+     "Space.com (Flight 15 aftermath) confirmed: launch 13 Nov, ship caught 14 Nov about 22.5 h after liftoff, first ship catch; booster aborted its catch after a low-fuel alarm and splashed in the Gulf; no refuelling date (article says likely 'relatively soon'); tanker estimates 6 to 8 (Musk) up to 22 (outsiders); Artemis IV 2028, Blue Moon possible fallback. Stories 0 and 1 share one URL, which is acceptable but they are not independent sources.",
+     "FPRI (6 Aug, Aaron Stein): presents Russian view as long-standing and largely inferential; desk wording 'analyst' is fair, but it is an assessment, not a stated Russian policy. Military Times (16 Sep) covers an American Foreign Policy Council report from April 2026 based on two 2025 war games; confirmed that the US 'appears to lack response options' in one scenario.",
+     "Story 4 (Wikipedia, Mengzhou 1) not checked; Wikipedia is a weak source for a launch date. China 2030 landing claim not checked. Clock hold at 14 is judgment."
+    ]
+   },
+   "prev_minutes": 14.0,
+   "prev_trend": "closer"
+  },
+  {
+   "id": "wildcards",
+   "name": "Natural Hazards & Wildcards",
+   "kind": "threat",
+   "midnight_definition": "A natural or out-of-the-blue event (supervolcanic eruption, impactor, extreme solar storm, mega-quake) with global consequences that nobody was positioned for.",
+   "trend": "steady",
+   "confidence": "low",
+   "headline": "Campi Flegrei's M4.7 injured 21 in July; no global-scale natural threat found",
+   "summary": "Hazard activity is elevated but regional: Campi Flegrei produced its strongest quake of the unrest on 31 July, a deep M7.1 hit eastern Indonesia on 16 November, and the Sun is delivering only minor geomagnetic storms. Nothing found points to an imminent global-scale event.",
+   "top_stories": [
+    {
+     "title": "Campi Flegrei M4.7 quake injures 21 and damages buildings near Naples",
+     "date": "2026-07-31",
+     "why_it_matters": "The strongest shock of the current unrest struck at about 3 km depth, hurt 21 people, evacuated 18 families, damaged churches and homes, and closed Pozzuoli port. It shows the caldera can do real local damage; the page gave no alert level or uplift figure.",
+     "source_name": "Euronews",
+     "url": "https://euronews.com/my-europe/2026/07/31/strongest-earthquake-in-years-strikes-volcanic-area-near-naples-injuring-four"
+    },
+    {
+     "title": "M7.1 quake at 115 km depth off Maluku Tenggara, Indonesia",
+     "date": "2026-11-16",
+     "why_it_matters": "A major but deep event (BMKG data) in the Banda Sea region, with no inhabitants estimated within 100 km; the page gives no tsunami assessment. Depth limits surface shaking.",
+     "source_name": "SMS Tsunami Warning (BMKG data)",
+     "url": "https://www.sms-tsunami-warning.com/earthquakes-today/bmkg-fb8472306dc0fe870413/130-km-BaratDaya-MALUKUTENGGARA/16-11-2026"
+    },
+    {
+     "title": "Coronal-hole stream drives G1 storm; radiation-belt electrons run high",
+     "date": "2026-11-11",
+     "why_it_matters": "Minor G1 storming on 7-8 Nov, strong electron flux at geostationary orbit (internal charging risk for satellites), and seven M-class flares from one sunspot region, none Earth-directed. NOAA outlook lists more G1 periods on 17-18 Nov, 27-28 Nov and 4-5 Dec.",
+     "source_name": "The Watchers",
+     "url": "https://watchers.news/2026/11/11/coronal-hole-stream-g1-geomagnetic-storm-november-7-8-2026-more-g1-storms-forecast/"
+    },
+    {
+     "title": "Strong shallow M6.4 quake hits Santa Cruz Islands, Solomon Islands",
+     "date": "2026-11-09",
+     "why_it_matters": "Shallow (17 km) event with USGS Green alert, meaning low expected casualties, though local construction is vulnerable. Regional, routine for the Ring of Fire.",
+     "source_name": "The Watchers",
+     "url": "https://watchers.news/2026/11/09/strong-and-shallow-m6-4-earthquake-hits-santa-cruz-islands-solomon-islands/"
+    },
+    {
+     "title": "Shallow M7.0 quake on Xizang-Qinghai border (carried from edition 001)",
+     "date": "2026-10-22",
+     "why_it_matters": "Strong shallow quake in a remote region with vulnerable buildings; regional scale only.",
+     "source_name": "The Watchers",
+     "url": "https://watchers.news/2026/10/22/strong-and-shallow-m7-0-earthquake-hits-xizang-qinghai-border-region-china/"
+    }
+   ],
+   "trajectory": {
+    "six_months": "Expect continued Campi Flegrei quakes with a real chance of further M4+ events, routine global M6-7 quakes, and recurring G1-G2 storms from coronal holes as the cycle declines.",
+    "two_years": "Solar flare intensity should fall but extreme storms stay possible; Campi Flegrei unrest could plateau or escalate; Iceland's Reykjanes system is likely to erupt again, with regional rather than global effect."
+   },
+   "signals_to_watch": [
+    "Campi Flegrei: INGV/Civil Protection alert level (last confirmed yellow, from an older article) and any quake above M4.7",
+    "NOAA SWPC outlook: G1 periods 27-28 Nov and 4-5 Dec; any G4/G5 watch or X-class flare",
+    "Iceland Met Office Svartsengi magma accumulation and eruption likelihood updates",
+    "ESA risk list: any object reaching Torino 1 or higher",
+    "NASA PDC27 planetary-defence exercise epochs"
+   ],
+   "clock_reasoning": "Global-scale natural catastrophes are rare and none of the indicators checked is at alarm level, so the clock holds in the live-but-slow range. The Campi Flegrei M4.7 is a meaningful local escalation but not a global threat, and it was already in the background of edition 001. Someone could argue lower for grid and satellite fragility, or higher given long base rates; coverage this run was thin.",
+   "unverified": [
+    "Current Campi Flegrei alert level and uplift rate: only a 2023 article on alert level was fetched; no 2026 bulletin confirmed",
+    "Iceland status: IMO news page fetched empty; no autumn 2026 eruption or magma-volume figure confirmed",
+    "Casualties or damage from the 16 Nov M7.1 Indonesia quake not confirmed; magnitude is BMKG's and may differ from USGS",
+    "Yellowstone, Tonga March 2026 and Sabah Feb 2026 quakes, asteroid risk list changes, and prediction-market black-swan views not checked this run"
+   ],
+   "since_last": "Added the 31 July Campi Flegrei M4.7 damage report, the 16 Nov Indonesia M7.1, and the early-November space weather picture; none justifies moving the clock, so it holds at 42.0.",
+   "desk_minutes": 42.0,
+   "minutes": 42.0,
+   "calibration_note": "Kept. No sampled natural indicator is at alarm level; the Campi Flegrei quake is real but local and months old.",
+   "factcheck": {
+    "status": "pass_with_corrections",
+    "notes": [
+     "Euronews (31 Jul) confirmed: M4.7 at about 3 km depth, 21 injured (two seriously), 18 families evacuated, Pozzuoli port closed. URL slug says 'injuring four' but body says 21; fine.",
+     "Indonesia M7.1 page (16 Nov 21:11 UTC, BMKG) confirmed: depth 115 km, near Maluku Tenggara. The page does not state a tsunami assessment either way, so 'reported no tsunami threat' is not supported; reworded. It is a tsunami-SMS aggregator, secondary.",
+     "Watchers (11 Nov) confirmed: G1 storm peaked 7 to 8 Nov, only minor level; high-energy electron flux elevated at geosynchronous orbit through about 13 Nov. Summary 'only minor geomagnetic storms' fine.",
+     "Stories 3 (Solomon M6.4) and 4 (Xizang M7.0, carried from edition 001) not checked. Headline leads with a July event, 3.5 months old, and calls it the strongest of the unrest: Euronews says strongest in years. Clock 42 is judgment; not sensational."
+    ]
+   },
+   "prev_minutes": 42.0,
+   "prev_trend": "steady"
+  }
+ ]
+}
