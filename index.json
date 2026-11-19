@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "edition": "003",
- "date": "2026-11-18",
- "date_label": "18 Nov 2026, 6 pm",
- "master_minutes": 8.35,
- "bytes": 159429,
- "sha256": "794df5d02e4aef2c9a31bd828e5c42ca765ac7555043d96de86af145a7834986",
+ "edition": "004",
+ "date": "2026-11-19",
+ "date_label": "19 Nov 2026, 6 am",
+ "master_minutes": 8.333333333333334,
+ "bytes": 167846,
+ "sha256": "eb615f4ea982158c192ae143a10148b527198121764dd1206d8638cfb88cbe70",
  "file": "latest.json"
 }
